@@ -3,12 +3,18 @@ layout: page
 title: "About"
 description: ""
 group: navigation
+weight: 2
+submenu:
+- { anchor: "education", title: "Education"}
+- { anchor: "guitar_faculty", title: "Guitar Faculty"}
+- { anchor: "performance_history", title: "Performance History"}
+- { anchor: "recordings", title: "Recordings"}
 ---
 {% include JB/setup %}
 
 ## Education
 
-*   B. M. in Jazz Guitar Performance, [New England Conservatory](http://www.newenglandconservatory.edu), 1978
+*   B. M. in Jazz Guitar Performance, [New England Conservatory](http://necmusic.edu/), 1978
 *   Additional studies at [Berklee College](http://www.berklee.edu) in Music Synthesis and Songwriting, 1987-'88
 *   [Eastman School of Music](http://www.rochester.edu/Eastman/), Jazz Studies ('75-'77)
 *   Jazz guitar studies with Mick Goodrick, Barry Galbraith, Charlie Banacos, Gene Bertoncini, Chuck Wayne

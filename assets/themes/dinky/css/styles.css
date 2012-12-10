@@ -198,6 +198,8 @@ td {
 /* Wrapper */
 .wrapper {
   width:960px;
+  background: url('/assets/themes/dinky/images/GB10BS-sidebar.png') bottom center no-repeat ;
+  
 }
 
 
@@ -206,11 +208,10 @@ td {
 header {
 	background-color: #3b3a3a;
 	color: #FDFDFB;
-  width:170px;
+  width:190px;
   float:left;
-  background: url('/assets/themes/dinky/images/GB10BS-sidebar.png') bottom center no-repeat ;
-  background-size: cover;
-  /*position:fixed;*/
+
+  position:fixed;
 	border: 1px solid #000;
 	-webkit-border-top-right-radius: 4px;
 	-webkit-border-bottom-right-radius: 4px;
@@ -218,8 +219,8 @@ header {
 	-moz-border-radius-bottomright: 4px;
 	border-top-right-radius: 4px;
 	border-bottom-right-radius: 4px;
-	padding: 34px 25px 22px 5px;
-	margin: 30px 25px 0 0;
+	padding: 14px 25px 22px 5px;
+	margin: 7px 25px 0 0;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -260,7 +261,7 @@ header .vcard li {
 
 header .nav li {
 	list-style-type: none;
-  width:132px;
+  width:172px;
   height:15px;
 	margin-bottom: 12px;
 	line-height: 1em;
@@ -323,11 +324,20 @@ section {
 /* Footer */
 
 footer {
-  width:170px;
+  width:190px;
   float:left;
   position:fixed;
   bottom:10px;
-	padding-left: 50px;
+	padding-left: 10px;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+footer ul li {
+  list-style-type: none;
 }
 
 @media print, screen and (max-width: 960px) {

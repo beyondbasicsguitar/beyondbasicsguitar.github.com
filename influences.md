@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Approach"
+title: "Approach/Influences"
 description: ""
 group: navigation
+weight: 3
 ---
 {% include JB/setup %}
 
@@ -10,11 +11,9 @@ I enjoy teaching all levels of guitar from novice to professional level. My teac
 
 My approach to instruction has been shaped by over twenty-five years of private teaching experience and studies with several different guitar masters, including:
 
-* [Barry Galbraith](http://www.classicjazzguitar.com/artists/artists_page.jsp?artist=14): NY studio player who [worked](http://www.vervemusicgroup.com/artist.aspx?ob=per&amp;srs=prd&amp;aid=3733) through the entire era of electric guitar.
+* [Barry Galbraith](http://en.wikipedia.org/wiki/Barry_Galbraith): NY studio player who [worked](http://www.vervemusicgroup.com/artist/default.aspx?aid=3733) through the entire era of electric guitar.
 
-* [Chuck Wayne](http://www.classicjazzguitar.com/artists/artists_page.jsp?artist=32): NY player who performed with Charlie Parker, from
-
-the be-bop school. Read more about [Chuck](http://entertainment.msn.com/artist/?artist=139779) 
+* [Chuck Wayne](http://en.wikipedia.org/wiki/Chuck_Wayne): NY player who performed with Charlie Parker, from the be-bop school. Read more about [Chuck](http://entertainment.msn.com/artist/?artist=139779) 
 
 * [Mick Goodrick](http://www.mrgoodchord.com/): modern school, expert at the psychology of improvising.
 
