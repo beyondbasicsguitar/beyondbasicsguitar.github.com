@@ -430,7 +430,7 @@ footer ul li {
 
 @media screen {
   body {
-    background-image: url('/assets/themes/dinky/images/guitar-bg.png');
+    background-image: url('../images/guitar-bg.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: right bottom;
