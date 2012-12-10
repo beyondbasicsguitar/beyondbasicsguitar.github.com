@@ -34,7 +34,7 @@ submenu:
 ## Performance History
 
 *   Currently performing with The Jazz Circle Duo at [Gabrielles Restaurant](http://www.gabrielles.net/), featuring [Matt McCauley](http://www.jazzcircle.com/) on acoustic bass
-*   Currently performing trance-organic-dance with [John Sprague's Dancing Worlds](http://www.sunyataproductions.com/) with drummer/percussionist** Bob Weiner**
+*   Currently performing trance-organic-dance with [John Sprague's Dancing Worlds](http://www.sunyataproductions.com/) with drummer/percussionist _Bob Weiner_
 *   Over [700 shows](http://www.wildestdreams.com/pages/appear_hist.html) with Boston-based worldbeat band [Wildest Dreams](http://www.wildestdreams.com/), from Maine to Aruba 1989-2000
 *   Leader: solo, duet and small group jazz performances throughout New England at private and corporate functions, clubs and coffeehouses.
 *   Shows: A Chorus Line, Evita, West Side Story, Three Penny Opera, Seven Deadly Sins, The Berlin Requiem, Jacques Brel is Alive and Well, Man of LaMancha, The Rink, performances with the American Repertory Theatre, National Theatre Guild, concerts with the Harvard Wind Ensemble

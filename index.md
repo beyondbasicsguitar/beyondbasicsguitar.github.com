@@ -10,8 +10,16 @@ submenu:
 ---
 {% include JB/setup %}
 
-<div class="well">
-	<h3>Have you</h3>
+<h1>
+		Guitar &amp; Bass Instruction
+Jazz Improv Studies with Paul Shumsky
+	</h1>
+
+<div class="row well">
+	<div class="span4" style="float:right" >
+		<img src="{{BASE_PATH}}assets/images/paul-homepage-pic.jpg"/>
+	</div>
+	<h4>Have you</h4>
 	<ul> 
 		<li>been playing for years but want to break into new sounds?</li>
 		<li>always been a good chord player but really want to be a better lead guitarist?</li>
