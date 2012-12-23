@@ -11,8 +11,7 @@ submenu:
 {% include JB/setup %}
 
 <h1>
-		Guitar &amp; Bass Instruction
-Jazz Improv Studies with Paul Shumsky
+		Guitar &amp; Bass Instruction/Jazz Improv Studies with Paul Shumsky
 	</h1>
 
 <div class="row well">
