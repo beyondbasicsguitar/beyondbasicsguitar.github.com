@@ -4,6 +4,7 @@ title: "About"
 description: ""
 group: navigation
 weight: 2
+guitar: { image: "assets/images/sidebar-gibson-400.png" }
 submenu:
 - { anchor: "education", title: "Education"}
 - { anchor: "guitar_faculty", title: "Guitar Faculty"}

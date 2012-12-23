@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 tagline: Supporting tagline
 group: navigation

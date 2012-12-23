@@ -4,7 +4,7 @@ title: "Testimonials"
 description: ""
 group: navigation
 weight: 4
-
+guitar: { image: "assets/images/sidebar-daquisto-1970.png" }
 ---
 {% include JB/setup %}
 
