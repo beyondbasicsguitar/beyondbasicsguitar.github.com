@@ -433,7 +433,7 @@ section.right-bar .right-bar-guitar {
   }
   
   header ul {
-    position:absolute;
+    /*position:absolute;*/
     right:130px;
     top:84px;
   }
