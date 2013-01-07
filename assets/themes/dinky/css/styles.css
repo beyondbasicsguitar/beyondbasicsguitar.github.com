@@ -47,6 +47,9 @@ p, ul, ol, table, dl {
   margin:0 0 22px;
 }
 
+li p {
+  margin-bottom: 2px;
+}
 h1, h2, h3 {
 	font-family: 'Arvo', Monaco, serif;
   line-height:1.3;

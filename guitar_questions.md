@@ -9,6 +9,7 @@ submenu:
 - { anchor: "is_learning_to_read_music_really_important", title: "Learning to Read Music"}
 - { anchor: "on_developing_speed", title: "On Developing Speed"}
 - { anchor: "nylon_or_steel", title: "Nylon or Steel"}
+- { anchor: "recommended_recordings", title: "Recommended Recordings"}
 ---
 {% include JB/setup %}
 
@@ -72,18 +73,51 @@ I want to buy my first guitar, should I buy one with nylon or steel strings?
 </div>
 <div class="answer" markdown="1">
 **Answer:**
- Listening is a huge part of developing musicianship. Listening to all kinds of music and instrumentalists, not just guitarists is very helpful. I myself am a music omnivore and like to draw influences from many sources. Here are a few of my favorites...
-
-* Jazz
-	
-	* [The Incredible Jazz Guitar of Wes Montgomery](http://www.amazon.com/exec/obidos/ASIN/B000000Y27/qid=1071249747/sr=2-1/ref=sr_2_1/002-0048173-7078453)
-	* [Smokin' At the Half Note - Wes Montgomery](http://www.amazon.com/exec/obidos/ASIN/B000000Y27/qid=1071249747/sr=2-1/ref=sr_2_1/002-0048173-7078453)
-	* [Footprints - Pat Martino (orig. release title "The Visit") ](http://www.amazon.com/exec/obidos/tg/detail/-/B000005BEK/ref=m_art_li_20/002-0048173-7078453)
-
+Choosing a nylon or steel string guitar is an important decision. The nylon string guitar is really appropriate for classical music, but in my opinion, is not the right way to go for most other styles. It's possible to play classical music on a steel string but steel strings do not have the flexibility or tonal range needed for serious classical right hand technique. Conversely, the sound produced by the nylon-stringed classical guitar is not what we associate with traditional popular styles such as folk, blues, jazz, rock, pop etc. Also, string bending techniques and fingerings common to pop music styles aren't accessible on the wider classical fingerboard. So, you should buy a steel string folk guitar if you are mostly interested in popular styles and might want to dabble a bit in the classical realm, or buy a nylon string classical guitar if the reverse is true. I would not worry about whether steel or nylon strings are "easier" to play. I believe that idea to be a false concern.
 </div>
 
 ## Recommended Recordings
 <div class="question">
-<strong>Who do you like to listen to?</strong>
-I want to buy my first guitar, should I buy one with nylon or steel strings?
+<strong>Question:</strong>
+Who do you like to listen to?
+</div>
+<div class="answer" markdown="1">
+**Answer:**
+Listening is a huge part of developing musicianship. Listening to all kinds of music and instrumentalists, not just guitarists is very helpful. I myself am a music omnivore and like to draw influences from many sources. Here are a few of my favorites...
+
+* **Jazz**
+	
+	* [The Incredible Jazz Guitar of Wes Montgomery](http://www.amazon.com/exec/obidos/ASIN/B000000Y27/qid=1071249747/sr=2-1/ref=sr_2_1/002-0048173-7078453)
+	* [Smokin' At the Half Note - Wes Montgomery](http://www.amazon.com/exec/obidos/ASIN/B000000Y27/qid=1071249747/sr=2-1/ref=sr_2_1/002-0048173-7078453)
+	* [Footprints - Pat Martino (orig. release title "The Visit") ](http://www.amazon.com/exec/obidos/tg/detail/-/B000005BEK/ref=m_art_li_20/002-0048173-7078453)
+	* [Portraits of Ellington - Joe Pass](http://www.amazon.com/exec/obidos/tg/detail/-/B000000XIV/qid=1071252360/sr=1-1/ref=sr_1_1/002-0048173-7078453)
+	* [Return to Forever - Chick Corea](http://www.amazon.com/exec/obidos/tg/detail/-/B0000262QW/ref=pd_bxgy_img_2/002-0048173-7078453)
+	* [Light As a Feather - Chick Core with Return to Forever](http://www.amazon.com/exec/obidos/ASIN/B0000046YK/qid=1071252671/sr=2-1/ref=sr_2_1/002-0048173-7078453)
+	* [Kind of Blue - Miles Davis](http://http//www.amazon.com/exec/obidos/ASIN/B000002ADT/qid=1071513702/sr=2-1/ref=sr_2_1/104-6449218-9132766)
+	: read about the [making of Kind Of Blue](http://www.npr.org/programs/jazzprofiles/archive/miles_kob.html)
+	* [Tribute to Jack Johnson - Miles Davis](http://www.amazon.com/exec/obidos/ASIN/B0000027GU/qid=1071513840/sr=2-2/ref=sr_2_2/104-6449218-9132766)
+	* [In a Silent Way - Miles Davis](http://www.amazon.com/exec/obidos/tg/detail/-/B00006GO9Q/qid=1071514405/sr=1-2/ref=sr_1_2/104-6449218-9132766)
+	* [Jazz Winds From a New Direction - Hank Garland (with a 17 year old Gary Burton!)](http://www.amazon.com/exec/obidos/ASIN/B00005B7RS/qid=1071515334/sr=2-1/ref=sr_2_1/104-6449218-9132766)
+	* [Bright Size Life - Pat Metheny (with Jaco Pastorius and Bob Moses)](http://www.amazon.com/exec/obidos/tg/detail/-/B0000261L9/qid=1071521627/sr=1-1/ref=sr_1_1/104-6449218-9132766)
+	* [Move! - Red Norvo (with Tal Farlow and a young Charles Mingus)](http://www.jazzguitar.dsl.pipex.com/TalFarlow/WithRedNorvo.htm)
+
+* **World Music**
+	* [Soro - Salif Keita](http://www.amazon.com/exec/obidos/tg/detail/-/B000003QJ3/qid=1071254061/sr=1-3/ref=sr_1_3/002-0048173-7078453)
+	* [Ni Kanu - Kante Manfila](http://www.amazon.com/exec/obidos/tg/detail/-/B000005H0F/qid=1071254541/sr=1-4/ref=sr_1_4/002-0048173-7078453)
+	* [Super Soukous - Loketo with Diblo Dibala](http://www.amazon.com/exec/obidos/tg/detail/-/B000000E2M/ref=m_art_li_1/104-6449218-9132766)
+
+		(Diblo is considered by most to be the leading exponent of Zairean soukous guitar. Pretty neat stuff!)
+
+* **Rock**
+	* [Axis Bold as Love - Jimi Hendrix](http://www.amazon.com/exec/obidos/tg/detail/-/B000002P5W/qid=1071256087/sr=1-1/ref=sr_1_1/002-0048173-7078453)
+	* [Electric Ladyland - Jimi Hendrix](http://www.amazon.com/exec/obidos/tg/detail/-/B000002P5U/ref=pd_bxgy_img_2/002-0048173-7078453)
+
+* **Classical**
+
+	* [Bach Lute Works Vol. I - John Williams](http://www.amazon.com/exec/obidos/tg/detail/-/B0000029W2/qid=1071258793/sr=1-36/ref=sr_1_36/002-0048173-7078453)
+	* [Bach: The Well-Tempered Clavier, Book II - Glenn Gould, piano](http://www.amazon.com/exec/obidos/tg/detail/-/B0000028NJ/ref=pd_bxgy_img_2_cp/002-0048173-7078453)
+
+* **Trance**
+
+	* [Shamanic Dream - Anugama](http://www.amazon.com/exec/obidos/ASIN/B00005TZOE/qid=1071265204/sr=2-1/ref=sr_2_1/002-0048173-7078453)	
 </div>
