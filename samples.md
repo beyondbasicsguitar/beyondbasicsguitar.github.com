@@ -3,6 +3,7 @@ layout: page
 title: "Samples"
 description: ""
 weight: 4
+guitar: { image: "assets/images/sidebar-dangelo-ex-dc-sp.png" }
 ---
 {% include JB/setup %}
 
@@ -59,7 +60,7 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 ## Wildest Dreams First CD
 
-**Wildest Dreams** has decided to make available for download our complete 1st EP CD. It was recorded at SyncroSound Studio, (the Cars old studio in Boston). It captures the band during it's early prime time. The excitement and fun we had making that recording is palpable, at least to my ears! Feel free to download these mp3s. If you enjoy them and would like to help us recoup the considerable costs we incurred creating this recording, please send a .99 cent donation per cut to the Dreamers, via [Paypal](http://www.paypal.com) account pshumsky@gmail.com. Thanks!
+**Wildest Dreams** has decided to make available for download our complete 1st EP CD. It was recorded at SyncroSound Studio, (the Cars old studio in Boston). It captures the band during it's early prime time. The excitement and fun we had making that recording is palpable, at least to my ears! Feel free to download these mp3s. If you enjoy them and would like to help us recoup the considerable costs we incurred creating this recording, please send a 99 cent donation per cut to the Dreamers, via [Paypal](http://www.paypal.com) account pshumsky@gmail.com. Thanks!
 
 [One Voice  (5:45, original version)](http://www.wildestdreams.com/music/one_voice_orig.mp3)
 
@@ -72,4 +73,4 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F1973964"></iframe>
+<!--<iframe width="100%" height="450" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F1973964"></iframe>-->

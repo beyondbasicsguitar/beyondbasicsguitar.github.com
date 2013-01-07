@@ -4,6 +4,7 @@ title: "Approach/Influences"
 description: ""
 group: navigation
 weight: 3
+guitar: { image: "assets/images/sidebar-gibson-L5.png" }
 ---
 {% include JB/setup %}
 

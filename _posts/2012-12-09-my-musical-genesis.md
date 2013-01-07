@@ -4,6 +4,7 @@ title: "My Musical Genesis"
 description: ""
 category: 
 tags: []
+guitar: { image: "assets/images/sidebar-fender-stratocaster.png" }
 ---
 {% include JB/setup %}
 

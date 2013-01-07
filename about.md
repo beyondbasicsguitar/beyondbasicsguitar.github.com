@@ -4,13 +4,19 @@ title: "About"
 description: ""
 group: navigation
 weight: 2
+guitar: { image: "assets/images/sidebar-gibson-400.png" }
 submenu:
+- { anchor: "professional_musicican", title: "Professional Musician"}
 - { anchor: "education", title: "Education"}
 - { anchor: "guitar_faculty", title: "Guitar Faculty"}
 - { anchor: "performance_history", title: "Performance History"}
 - { anchor: "recordings", title: "Recordings"}
 ---
 {% include JB/setup %}
+
+
+As a musician who has played thousands of gigs since the 1970s, my teaching is informed by performance experiences in concert halls, theatres, clubs, festivals, coffee houses, colleges, schools, weddings, corporate events, live radio and TV, various recording sessions and just about every other type of venue and occasion you can imagine. I have also performed in a wide variety of styles, including rock, jazz, blues, funk, classical, worldbeat (soukous, reggae, calypso, zouk), dixieland (playing tenor banjo) and in conducted orchestras and wind ensembles. This rich and varied background helps me offer guidance to students of all levels and interests.
+
 
 ## Education
 

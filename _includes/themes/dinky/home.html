@@ -20,7 +20,7 @@
 
     {% include JB/analytics %}
   </head>
-  <body>
+  <body class="home">
     
     <div class="wrapper">
       <header>
@@ -69,11 +69,6 @@
 
       <section class="content">
       {{ content }}
-      </section>
-      <section class="right-bar noprint">
-        {% if page.guitar %}
-          <img class="right-bar-guitar" src="{{ BASE_PATH }}/{{ page.guitar.image }}"></img>
-        {% endif %}
       </section>
 
       <footer>
