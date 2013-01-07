@@ -10,9 +10,10 @@ submenu:
 ---
 {% include JB/setup %}
 
-<h1>
-		Guitar &amp; Bass Instruction/Jazz Improv Studies with Paul Shumsky
-	</h1>
+<div class="website-title">
+<h1>Guitar &amp; Bass Instruction</h1>
+<h1>Jazz Improv Studies with Paul Shumsky</h1>
+</div>
 
 <div class="row well">
 	<div class="span4" style="float:right" >
@@ -25,7 +26,10 @@ submenu:
 		<li>taught yourself some guitar but are afraid you've picked up some bad habits?</li>
 		<li>always wanted to learn but were afraid it wouldn't be fun?</li>
 	</ul>
-	Then you want to take classes with Paul. Checkout some <a href="{{BASE_PATH}}testimonials.html">testimonials</a> from Paul's students
+	<b>"...Regardless of what we're working on - technique, theory, repertoire, improv - I leave every lesson feeling like I've learned something new, practical, and essential."</b>
+        <br/> – J. P., Boston MA
+        <br/>
+         <a href="{{BASE_PATH}}testimonials.html">more testimonials</a>.
 </div>
 
 

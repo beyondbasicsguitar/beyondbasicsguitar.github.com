@@ -284,6 +284,16 @@ header .nav li {
 	
 }
 
+.website-title {
+  margin-bottom: 5px;
+}
+
+.website-title h1 {
+  margin: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
 header .nav li:hover {
 	background: #C3001D;
 	background: -moz-linear-gradient(top, #C3001D 0%, #950119 100%);
