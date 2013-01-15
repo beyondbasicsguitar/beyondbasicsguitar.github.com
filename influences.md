@@ -22,7 +22,7 @@ My approach to instruction has been shaped by over twenty-five years of private 
 
 * [Charlie Banacos](http://www.charliebanacos.com/): improvisation &amp; technique, primary influence for many contemporary players including Mike Stern.
 
-• [Robert Paul Sullivan](http://www.newenglandconservatory.edu/faculty/sullivanR.html): classical teacher, expert at left hand technique.
+* [Robert Paul Sullivan](http://www.newenglandconservatory.edu/faculty/sullivanR.html): classical teacher, expert at left hand technique.
 
 In the first few lessons, the basics of chord voicings, scales, blues comping and soloing, sightreading, technique and music
 theory as applied to the guitar are covered. Establishing this foundation
