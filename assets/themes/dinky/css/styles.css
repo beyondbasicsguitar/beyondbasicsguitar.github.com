@@ -516,3 +516,7 @@ section.right-bar .right-bar-guitar {
 .question {
   background: #eee;
 }
+
+.header img {
+  border: none;
+}
