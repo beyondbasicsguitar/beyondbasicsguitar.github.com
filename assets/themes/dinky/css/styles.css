@@ -384,6 +384,15 @@ footer ul li {
   list-style-type: none;
 }
 
+.home-right-bar .posts{
+  list-style: none;
+  margin: 0;
+  background-color: #eee;
+}
+
+.home-right-bar .posts  li {
+  list-style-type: none;
+}
 
 
 @media only screen and (min-device-width: 1224px){
@@ -401,9 +410,11 @@ section.home-right-bar {
   width:250px;
   position:fixed;
   bottom: 0px;
-  right: 0px;
+  right: 5px;
   height: 100%;
 }
+
+
 
 section.right-bar .right-bar-guitar {
   padding: 0;

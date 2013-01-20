@@ -4,8 +4,6 @@ title: Home
 tagline: Supporting tagline
 group: navigation
 weight: 1
-submenu:
-
 ---
 {% include JB/setup %}
 
