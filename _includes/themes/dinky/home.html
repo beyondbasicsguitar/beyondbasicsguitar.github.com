@@ -21,11 +21,11 @@
     {% include JB/analytics %}
   </head>
   <body class="home">
+
     
     <div class="wrapper">
       <header>
-      <h2 class="header"><a href="{{ HOME_PATH }}"><img src="{{ ASSET_PATH }}/images/logo.png" alt="{{ site.title }}"/></a></h2>
-
+        <h2 class="header"><a href="{{ HOME_PATH }}"><img src="{{ ASSET_PATH }}/images/logo.png" alt="Beyond Basics Guitar"></img></a></h2>
         <ul class="nav">
           <ul>
               {% for weight in (1..10) %}
@@ -67,37 +67,9 @@
         {% endif %}
       </header>
 
-      <section class="content">
+      <section class="content row">
       {{ content }}
       </section>
-
-      <footer>
-        {% if site.author %}
-          <ul>
-            {% if site.author.email %}
-            <li><address><span class="fn email">{{ site.author.email }}</span></address></li>
-            {% endif %}
-            {% if site.author.address %}
-            <li class="address">{{ site.author.address }}</li>
-            {% endif %}
-            {% if site.author.twitter %}
-            <li class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">twitter.com/{{ site.author.twitter }}</a></li>
-            {% endif %}
-            {% if site.author.facebook %}
-            <li class="facebook"><a href="http://facebook.com/{{ site.author.facebook }}/" rel="me">facebook.com/{{ site.author.facebook }}</a></li>
-            {% endif %}
-            {% if site.author.flickr %}
-            <li class="flickr"><a href="http://flickr.com/{{ site.author.flickr }}/" rel="me">flickr.com/{{ site.author.flickr }}</a></li>
-            {% endif %}
-            {% if site.author.yelp %}
-            <li class="yelp"><a href="http://{{ site.author.yelp }}.yelp.com/" rel="me">{{ site.author.yelp }}.yelp.com</a></li>
-            {% endif %}
-            {% if site.author.pinterest %}
-            <li class="pinterest"><a href="http://pinterest.com/{{ site.author.pinterest }}" rel="me">pinterest.com/{{ site.author.pinterest }}</a></li>
-            {% endif %}
-          </ul>
-        {% endif %}
-      </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
   </body>

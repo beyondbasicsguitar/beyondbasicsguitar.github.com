@@ -20,3 +20,15 @@ guitar: { image: "assets/images/sidebar-gibson-L5.png" }
 
 **Contact:**  pshumsky@gmail.com (860)569-7799. Please feel free to contact me to discuss your interests and check available times.
 
+## Why Study With Paul?
+
+* Learn from a professional musician
+* Patient, experienced guidance
+* All levels taught, from brand-new beginner to pro
+* Jazz, pop, blues, rock, funk, world, folk, classical styles
+* Jazz improvisation and theory for all instruments
+* Play the songs you want to learn
+
+## Worksheets
+
+You can find the worksheets [here](/guitar_worksheets.html)
