@@ -397,6 +397,14 @@ section.right-bar {
   background: #fff;
 }
 
+section.home-right-bar {
+  width:250px;
+  position:fixed;
+  bottom: 0px;
+  right: 0px;
+  height: 100%;
+}
+
 section.right-bar .right-bar-guitar {
   padding: 0;
   margin: 0;

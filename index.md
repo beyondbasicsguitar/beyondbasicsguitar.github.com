@@ -12,9 +12,9 @@ submenu:
 <img src="{{BASE_PATH}}/assets/images/beyond-basics-logo-large.png"/>
 
 <div class="row well">
-	<!-- <div class="span4" style="float:right" >
+	<div class="span4" style="float:right" >
 		<img src="{{BASE_PATH}}assets/images/paul-homepage-pic.jpg"/>
-	</div> -->
+	</div>
 	<h3>Have you</h3>
 	<ul> 
 		<li>been playing for years but want to break into new sounds?</li>
@@ -32,11 +32,5 @@ submenu:
 
 
 
-## Posts/Readings
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
 
