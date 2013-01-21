@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: samples
 title: "Samples"
 description: ""
 weight: 4
 guitar: { image: "assets/images/sidebar-dangelo-ex-dc-sp.png" }
 ---
 {% include JB/setup %}
+
+
 
 __You never quite know what's going to happen__ when you're jamming with [Steve Greene](http://www.stevegreene.com/), my old high school music buddy and noted Rochester, NY jazz guitarist and teacher. Steve and I go back over 40 years! We recently got together and played some tunes in honor of my mom's 86th birthday and the following cuts ensued. Recorded 1-21-2012 in the home of Tom Hampson, host of Rochester's longest-running jazz broadcast on public radio station WXXI, "Jazz from the Cellar" and my number one step-dad!
 
@@ -62,6 +64,7 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 **Wildest Dreams** has decided to make available for download our complete 1st EP CD. It was recorded at SyncroSound Studio, (the Cars old studio in Boston). It captures the band during it's early prime time. The excitement and fun we had making that recording is palpable, at least to my ears! Feel free to download these mp3s. If you enjoy them and would like to help us recoup the considerable costs we incurred creating this recording, please send a 99 cent donation per cut to the Dreamers, via [Paypal](http://www.paypal.com) account pshumsky@gmail.com. Thanks!
 
+<img src="{{BASE_PATH}}/assets/images/one_voice_cover.gif" style="float:right" alt="One Voice Cover"/>
 [One Voice  (5:45, original version)](/assets/music/one_voice_orig.mp3)
 
 [Down In The Islands (4:47)](/assets/music/down_in_the_islands.mp3)
@@ -71,6 +74,3 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 [What It's All About (5:10, original version)](/assets/music/what_it's_all_about.mp3)
 
 
-
-
-<!--<iframe width="100%" height="450" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F1973964"></iframe>-->
