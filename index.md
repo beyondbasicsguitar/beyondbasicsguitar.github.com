@@ -21,7 +21,7 @@ title: Beyond Basics Guitar
 
 
 <div class="row">
-  {% for post in site.posts limit:3 %}
+  {% for post in site.posts limit:4 %}
   <div class="span4">
     <a href="{{ BASE_PATH }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
 	<p>&nbsp;</p>
