@@ -2,7 +2,7 @@
 html, body {
   background-color: #eee;
 }
-.container > footer p {
+footer p {
   text-align: center; /* center align it with the container */
 }
 
@@ -70,6 +70,8 @@ html, body {
 }
 
 
+
+
 .banner {
    background-color: #fff;
   padding: 20px;
@@ -79,6 +81,11 @@ html, body {
   -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
      -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
           box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+.banner h2{
+  font-family: "Tangerine", serif;
+  font-size: 50px;
 }
 
 .sidebar {
@@ -102,3 +109,30 @@ html, body {
     top: 40px;  
 }
 
+.action {
+  margin-top: 10px;
+}
+
+.boxes {
+  border-top: solid 1px #000;
+  margin-left: 10px;
+}
+
+.home-list-banner .hero-unit {
+   background-image: url('../img/guitar-bg.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 20px;
+  -webkit-box-shadow: 0 2px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 2px 2px rgba(0,0,0,.15);
+          box-shadow: 0 2px 2px rgba(0,0,0,.15);
+    font-family: "Lato", "sans", serif;
+    font-size: 1.2em;
+}
+
+.home-list-banner .hero-unit h2 {
+  font-family: "Gravitas One", "Arial Black", serif;
+  font-weight: bold;
+  font-size: 50px;
+  margin-bottom: 10px;
+}

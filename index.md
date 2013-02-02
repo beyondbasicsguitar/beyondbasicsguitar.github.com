@@ -15,10 +15,11 @@ title: Beyond Basics Guitar
 	</ul>
 	<em>"...Regardless of what we're working on,  I leave every lesson feeling like I've learned something new, practical, and essential."    – J. P., Boston MA</em>
 	<br/>
-         
+    <div class="action">     
          <a class="btn btn-large btn-inverse" href="{{BASE_PATH}}about.html">About Paul</a>
          <a class="btn btn-large btn-inverse" href="{{BASE_PATH}}about.html">Contact</a>
          <a class="btn btn-large " href="{{BASE_PATH}}testimonials.html">More Testimonials</a>
+    </div>
 </div>
 
 
