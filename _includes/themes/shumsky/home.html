@@ -60,20 +60,7 @@
         </div>
       </div>
     </div>
-    <div class="container">
-    <!-- Sub Menu -->
-          {%if page.submenu %}
-            <div class="navbar navbar-inverse navbar-affix">
-              <div class="navbar-inner">
-                <div class="container">
-               
-              </ul>
-            </div>
-            </div>
-          </div>
-        {% endif %}
-    </div>
-   <div class="container banner">
+    <div class="container banner">
       <div class="row">
         <div class="span6 logo">
           <img style="max-width: 50%" src="{{ ASSET_PATH }}/img/beyondbasics-logo.png" alt="Beyond Basics Guitar Logo"/>
@@ -90,31 +77,12 @@
     <div class="container site-body">
 
     
-      <div class="span8 content">
-        {{ content }}
+      <div class="row content">
+        <div class="span8">{{ content }}</div>
+        <div class="span3"><img src="{{ BASE_PATH }}/assets/images/paul-homepage-pic.jpg"</div>
       </div>
-      <div class="span4 sidebar affix">
-
-        <ul class="nav nav-list nav-pills nav-stacked">
-                {% for item in page.submenu %}
-                  <li><a href="#{{ item.anchor }}"> {{ item.title }}</a></li>
-                {% endfor %}
 
 
-
-       <h2>Recent Posts</h2>
-        <ul>
-          {% for post in site.posts limit:10 %}
-          <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-          {% endfor %}
-        </ul> 
-
-
-      {% if page.guitar %}
-          <img src="{{ BASE_PATH }}/{{ page.guitar.image }}"></img>
-        {% endif %}
-  
-  
     </div>
       
       <footer>
