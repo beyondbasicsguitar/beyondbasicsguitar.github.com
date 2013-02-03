@@ -1,6 +1,8 @@
 /* Override some defaults */
 html, body {
-  background-color: #eee;
+  
+  background-image: url("../img/background.png");
+  border-repeat: repeat: 
 }
 footer p {
   text-align: center; /* center align it with the container */
@@ -118,6 +120,7 @@ footer p {
   margin-left: 10px;
 }
 
+
 .home-list-banner .hero-unit {
    background-image: url('../img/guitar-bg.png');
     background-repeat: no-repeat;
@@ -128,6 +131,7 @@ footer p {
           box-shadow: 0 2px 2px rgba(0,0,0,.15);
     font-family: "Lato", "sans", serif;
     font-size: 1.2em;
+    margin-bottom:12px;
 }
 
 .home-list-banner .hero-unit h2 {
@@ -135,4 +139,13 @@ footer p {
   font-weight: bold;
   font-size: 50px;
   margin-bottom: 10px;
+}
+
+.tagline {
+  padding: 5px;
+  background-color: #eee;
+  font-family: "Lato", "sans", serif;
+  -webkit-box-shadow: 0 2px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 2px 2px rgba(0,0,0,.15);
+          box-shadow: 0 2px 2px rgba(0,0,0,.15);
 }

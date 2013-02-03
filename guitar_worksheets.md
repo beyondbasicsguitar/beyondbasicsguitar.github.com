@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Guitar Worksheets"
+categories: ["more"]
 description: ""
 ---
 {% include JB/setup %}
