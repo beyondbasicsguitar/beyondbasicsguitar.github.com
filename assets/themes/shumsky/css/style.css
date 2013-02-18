@@ -1,7 +1,7 @@
 /* Override some defaults */
 html, body {
   
-  background-image: url("../img/background.png");
+  /*background-image: url("../img/background.png");*/
   border-repeat: repeat: 
 }
 footer p {
@@ -32,6 +32,15 @@ footer p {
   border: 0;
 }
 
+
+#navbar-name {
+  text-transform:uppercase; 
+  color: #eee;
+  text-shadow: white 1px 1px 1px;
+  font-size: 17pt;
+  font-family: 'Palatino Linotype', serif;
+  padding-top: 10px;
+}
 
 /* tag_box ======================================================== */
 
