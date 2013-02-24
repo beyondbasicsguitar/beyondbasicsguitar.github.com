@@ -1,7 +1,7 @@
 /* Override some defaults */
 html, body {
   
-  /*background-image: url("../img/background.png");*/
+  background-image: url("../img/background.png");
   border-repeat: repeat: 
 }
 footer p {
@@ -21,6 +21,32 @@ footer p {
           box-shadow: 0 1px 2px rgba(0,0,0,.15);
 }
 
+/*.navbar {
+  background-color: #000;
+}*/
+.navbar-inner {
+  background: rgb(0,9, 10) url("../img/navbar-background.png");
+
+}
+
+.navbar .brand {
+  color: rgb(202, 202, 202);
+}
+
+.navbar .nav > li > a {
+  color: #bbb;
+  font-family: "PT Sans" sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.navbar .nav > li:hover {
+  background-color: #000;
+  
+}
+
+
+
 /* Page header tweaks */
 .page-header {
   background-color: #f5f5f5;
@@ -39,7 +65,11 @@ footer p {
   text-shadow: white 1px 1px 1px;
   font-size: 17pt;
   font-family: 'Palatino Linotype', serif;
-  padding-top: 10px;
+}
+
+
+#banner-list li {
+  line-height: 54px;
 }
 
 /* tag_box ======================================================== */
@@ -130,24 +160,40 @@ footer p {
 }
 
 
-.home-list-banner .hero-unit {
+.home .content {
    background-image: url('../img/guitar-bg.png');
-    background-repeat: no-repeat;
-    background-size: 100%;
-    padding-bottom: 20px;
+    background-repeat: no-repeat;    
   -webkit-box-shadow: 0 2px 2px rgba(0,0,0,.15);
      -moz-box-shadow: 0 2px 2px rgba(0,0,0,.15);
           box-shadow: 0 2px 2px rgba(0,0,0,.15);
-    font-family: "Lato", "sans", serif;
-    font-size: 1.2em;
+    padding-bottom: 50px;
     margin-bottom:12px;
 }
 
-.home-list-banner .hero-unit h2 {
-  font-family: "Gravitas One", "Arial Black", serif;
-  font-weight: bold;
-  font-size: 50px;
+.home-list-banner h2 {
+  font-family: "Open Sans" , "Arial Black", serif;
+  font-weight: 800;
+  font-size: 3em;
   margin-bottom: 10px;
+}
+
+#banner-list {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-size: 1.5em;
+}
+
+.quote {
+  font-family: "Vollkorn", sans-serif;
+  line-height: 2em;
+  font-size: 1.5em;
+  
+min-height: 40px;
+padding: .6em 1em .6em 2.4em;
+border: 1px dotted #ddd;
+font-style: italic;
+color: #474747;
+background: #fff url("../img/blockquote.png") no-repeat 4px top;
 }
 
 .tagline {

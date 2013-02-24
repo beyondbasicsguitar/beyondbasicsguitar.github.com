@@ -21,7 +21,7 @@
     </style>
     <link href="{{ ASSET_PATH }}/css/bootstrap-responsive.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine| Gravitas+One|Lato">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine|PT+Sans|Open+Sans|Vollkorn">
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -47,10 +47,10 @@
               {% for weight in (1..10) %}
                 {% for p in site.pages %}
                   {% if p.weight == weight %}
-                    <li>
-                      <a {% if p.url == page.url %} 
+                    <li {% if p.url == page.url %} 
                         class = "active" 
-                        {% endif %} 
+                        {% endif %} >
+                      <a 
                         href="{{ BASE_PATH }}{{ p.url }}"> {{ p.title }}
                       </a>
                     </li>
@@ -59,7 +59,9 @@
               {% endfor %}
             </ul>
             <ul class="navbar-text pull-right">
-              <p id="navbar-name" >Paul Shumsky</p>
+              <div rel="popover" data-html="true" id="navbar-name" data-toggle="popover" data-content="
+B.M. Jazz Guitar<br/>
+<b>New England Conservatory</b>" data-delay-hide= "2000" data-trigger="hover" data-placement="bottom" >Paul Shumsky</span>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -67,33 +69,7 @@
     </div>
 
     <div class="container site-body">
-      <div class="span8 content">
-        {{ content }}
-      </div>
-      <div class="span4 sidebar affix">
-
-        <ul class="nav nav-list nav-pills nav-stacked">
-                {% for item in page.submenu %}
-                  <li><a href="#{{ item.anchor }}"> {{ item.title }}</a></li>
-                {% endfor %}
-
-
-
-       <h2>Recent Posts</h2>
-        <ul>
-          {% for post in site.posts limit:10 %}
-          <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-          {% endfor %}
-        </ul> 
-
-
-      {% if page.guitar %}
-          <img src="{{ BASE_PATH }}/{{ page.guitar.image }}"></img>
-        {% endif %}
-      </div>
-      
-  
-      
+      {{content}}
     </div>
     <footer>
         <p>&copy; {{ site.author.name }} 2013
@@ -104,7 +80,10 @@
     <script>window.jQuery || document.write('<script src="{{ ASSET_PATH }}/js/jquery.min.js"><\/script>')</script>
     <script src="{{ ASSET_PATH }}/js/bootstrap.min.js"></script>
     <script src="{{ ASSET_PATH }}/js/lightbox.js"></script>
-
+    <script type="text/javascript">
+      $("div[rel=popover]").popover();
+    </script>
+    </script>
     {% include JB/analytics %}
   </body>
 </html>

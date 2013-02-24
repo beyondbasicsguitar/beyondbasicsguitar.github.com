@@ -1,0 +1,26 @@
+<div class="span8 content">
+        {{ content }}
+</div>
+<div class="span4 sidebar affix">
+
+<ul class="nav nav-list nav-pills nav-stacked">
+        {% for item in page.submenu %}
+          <li><a href="#{{ item.anchor }}"> {{ item.title }}</a></li>
+        {% endfor %}
+
+
+
+<h2>Recent Posts</h2>
+<ul>
+  {% for post in site.posts limit:10 %}
+  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul> 
+
+
+{% if page.guitar %}
+  <img src="{{ BASE_PATH }}/{{ page.guitar.image }}"></img>
+{% endif %}
+</div>
+      
+  
