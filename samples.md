@@ -49,6 +49,10 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 [Dark Eyes](/assets/music/Dark%20Eyes.mp3)
 
+## College Test Blues
+
+[College Test Blues](/assets/music/college_test_blues.mp3)
+
 ### with Steve Roane on acoustic bass: 
 
 [The Nearness of You](/assets/music/The%20Nearness%20of%20You.mp3)

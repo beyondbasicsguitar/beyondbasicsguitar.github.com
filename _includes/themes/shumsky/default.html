@@ -41,9 +41,16 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <!-- <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a> -->
           <div class="nav-collapse">
             <ul class="nav">
+              <li {% if p.url == page.url %} 
+                        class = "active" 
+                        {% endif %} >
+                      <a 
+                        href="{{ HOME_PATH }}"> Home
+                      </a>
+              </li>
               {% for weight in (1..10) %}
                 {% for p in site.pages %}
                   {% if p.weight == weight %}
@@ -58,11 +65,11 @@
                 {% endfor %}
               {% endfor %}
             </ul>
-            <ul class="navbar-text pull-right">
+            <!-- <ul class="navbar-text pull-right">
               <div rel="popover" data-html="true" id="navbar-name" data-toggle="popover" data-content="
 B.M. Jazz Guitar<br/>
 <b>New England Conservatory</b>" data-delay-hide= "2000" data-trigger="hover" data-placement="bottom" >Paul Shumsky</span>
-            </ul>
+            </ul> -->
           </div><!--/.nav-collapse -->
         </div>
       </div>
@@ -72,8 +79,9 @@ B.M. Jazz Guitar<br/>
       {{content}}
     </div>
     <footer>
-        <p>&copy; {{ site.author.name }} 2013
+        <p>pshumsky@gmail.com | (860) 569-7799 | East Hartford, CT
         </p>
+        <p class="copyright-text"> &copy; {{ site.author.name }} 2013</p>
       </footer>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>

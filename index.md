@@ -17,7 +17,7 @@ title: Beyond Basics Guitar
     
 </div>
 <div class="action">
-	 <a class="btn " style="float:right" href="{{BASE_PATH}}testimonials.html">More Testimonials</a>
+	 <a class="btn " style="float:right" href="{{BASE_PATH}}testimonials.html">Read more Testimonials</a>
 </div>
 
 <br/>

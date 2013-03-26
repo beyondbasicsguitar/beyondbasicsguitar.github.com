@@ -204,3 +204,8 @@ background: #fff url("../img/blockquote.png") no-repeat 4px top;
      -moz-box-shadow: 0 2px 2px rgba(0,0,0,.15);
           box-shadow: 0 2px 2px rgba(0,0,0,.15);
 }
+
+.copyright-text {
+  font-size: smaller;
+  line-height: 0px;
+}
