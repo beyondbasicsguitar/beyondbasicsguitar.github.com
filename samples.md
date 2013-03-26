@@ -1,6 +1,6 @@
 ---
 layout: samples
-title: "Samples"
+title: "Listen"
 description: ""
 weight: 4
 guitar: { image: "assets/images/sidebar-dangelo-ex-dc-sp.png" }

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "About Paul"
 description: ""
 group: navigation
 weight: 2
@@ -15,7 +15,7 @@ submenu:
 {% include JB/setup %}
 
 
-As a musician who has played thousands of gigs since the 1970s, my teaching is informed by performance experiences in concert halls, theatres, clubs, festivals, coffee houses, colleges, schools, weddings, corporate events, live radio and TV, various recording sessions and just about every other type of venue and occasion you can imagine. I have also performed in a wide variety of styles, including rock, jazz, blues, funk, classical, worldbeat (soukous, reggae, calypso, zouk), dixieland (playing tenor banjo) and in conducted orchestras and wind ensembles. This rich and varied background helps me offer guidance to students of all levels and interests.
+My teaching is informed by thousands of performances over the course of my career, in concert halls, theatres, clubs, festivals, coffee houses, colleges, schools, weddings, corporate events, musicals, live radio and TV, studio recording and more. I have performed in diverse styles, including jazz, rock, blues, swing, funk, classical, African and Brazilian-influenced worldbeat, Dixieland, and in conducted orchestras and wind ensembles. I customize and personalize your lessons, drawing upon this rich, musical background to respond to your specific questions and style interests.
 
 
 ## Education
@@ -37,21 +37,22 @@ As a musician who has played thousands of gigs since the 1970s, my teaching is i
 *   Private instructor at various private secondary schools ('74-'99)
 *   Private studio instruction ('73-present)
 
-## Performance History
+## Performances
 
-*   Currently performing with The Jazz Circle Duo at [Gabrielles Restaurant](http://www.gabrielles.net/), featuring [Matt McCauley](http://www.jazzcircle.com/) on acoustic bass
-*   Currently performing trance-organic-dance with [John Sprague's Dancing Worlds](http://www.sunyataproductions.com/) with drummer/percussionist _Bob Weiner_
-*   Over [700 shows](http://www.wildestdreams.com/pages/appear_hist.html) with Boston-based worldbeat band [Wildest Dreams](http://www.wildestdreams.com/), from Maine to Aruba 1989-2000
-*   Leader: solo, duet and small group jazz performances throughout New England at private and corporate functions, clubs and coffeehouses.
-*   Shows: A Chorus Line, Evita, West Side Story, Three Penny Opera, Seven Deadly Sins, The Berlin Requiem, Jacques Brel is Alive and Well, Man of LaMancha, The Rink, performances with the American Repertory Theatre, National Theatre Guild, concerts with the Harvard Wind Ensemble
-*   Freelance sideman: jazz, blues, pop, country swing, dixieland (on tenor banjo) and folk styles
-*   TV and live radio: Paul Shumsky Trio, Mark Kross Duo, Phil Wilson, Bo Winiker Swing Orchestra, Wildest Dreams, Gunther Schuller, Dancing Worlds
+* Jim Martin - Paul Shumsky Jazz Guitar Duo at [Fox Hopyard Golf Club](http://otrrestaurant.com/).
+* The Jazz Circle Duo at [Gabrielles Restaurant](http://www.gabrielles.net/), featuring [Matt McCauley](http://www.jazzcircle.com/) on acoustic bass.
+* Trance-organic-dance with [John Sprague’s Dancing Worlds](http://www.sunyataproductions.com/) with drummer/percussionist Bob Weiner at Greenfield MA cable TV and other events in Western Mass.
+* [700+ shows](http://www.wildestdreams.com/pages/appear_hist.html) from Maine to Aruba with Boston-based, world beat band [Wildest Dreams](http://www.wildestdreams.com/), 1989-2000.
+* Leader & sideman: solo, duet and small ensemble performances throughout New England for private and corporate functions, clubs and coffeehouses.
+* Musicals / Theater / Orchestral: A Chorus Line, Evita (with the National Theater Guild - New England tour); Three Penny Opera, Seven Deadly Sins, The Berlin Requiem (at the American Repertory Theatre); West Side Story, Jacques Brel is Alive and Well, Man of LaMancha, The Rink; concerts with the Harvard Wind Ensemble (Sanders Theater); with the Boston Pops at Symphony Hall.
+* TV and live radio with  Paul Shumsky Trio, Mark Kross Duo, Phil Wilson, Bo Winiker Swing Orchestra, Wildest Dreams, Gunther Schuller, Dancing Worlds
 
 ## Recordings
 
-*   "Wildest Dreams: [One Voice!", "Peace Planet" ](http://www.wildestdreams.com/pages/stuff.html)
-*   [Mohamed Kalifa Kamara ](http://www.mohamedkalifakamara.com/&quot;)"Africa Unite"
+*   "Wildest Dreams: [One Voice!"](http://www.wildestdreams.com/pages/stuff.html)
+*   "Wildest Dreams: ["Peace Planet" ](http://www.wildestdreams.com/pages/stuff.html)
+*   Mohamed Kalifa Kamara : "Africa Unite"
 *   "The Bo Winiker Swing Orchestra" Golden Crest Records
-*   "Three Hundred Years of Country Fiddle Music" Gunther Schuller, Columbia Records
-*   ["Happy Feet! A Tribute to Paul Whiteman"](http://www.cduniverse.com/productinfo.asp?pid=6140838&amp;style=music&amp;frm=lk_jzmtz&quot;)The NEC Jazz Repertory Orchestra featuring Joe Venuti, directed by Gunther Schuller, Golden Crest Records. Check out the clip to My Blue Heaven. You can hear part of my tenor banjo solo on the tail end...
-*   Wendy Frank and HumanNature
+*   New England Conservatory Country Fiddle Band “One Hundred Years Of Country Dance Music” Columbia Records, Gunther Schuller, director.
+* NEC Jazz Repertory Orchestra featuring Joe Venuti: ["Happy Feet! A Tribute to Paul Whiteman"](http://www.cduniverse.com/productinfo.asp?pid=6140838&amp;style=music&amp;frm=lk_jzmtz&quot;) Golden Crest Records, director: Gunther Schuller
+*   Wendy Frank: "Human Nature - Environmental Awareness Songs for Children"
