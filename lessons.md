@@ -11,12 +11,18 @@ guitar: { image: "assets/images/sidebar-gibson-L5.png" }
 ## Why Study With Paul?
 
 * Learn from a professional musician and teacher with over three decades of experience
+
 * Patient guidance from a skilled teacher who loves to teach
+
 * All levels taught, from brand-new beginner to pro
-*Lessons incorporate your own repertoire choices and focus on the skills you want to develop
+
+* Lessons incorporate your own repertoire choices and focus on the skills you want to develop
+
 * You’ll learn how music works as well as how to play, enabling better self-teaching and memorization.
+
 * Work with a teacher who can quickly ascertain what's missing in your technique and key to your continued development
-*Learn from a teacher who plays and enjoys many genres and styles
+
+* Learn from a teacher who plays and enjoys many genres and styles
 
 **Where:** All lessons are taught at my home studio in East Hartford, CT.
 

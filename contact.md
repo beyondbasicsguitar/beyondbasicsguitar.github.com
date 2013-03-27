@@ -19,3 +19,5 @@ submenu:
 * [comments from former clients](/guitar_perf_testimonials.html)
 
 Please call 860-569-7799 or [email me](mailto:pshumsky@gmail.com) for rates and availability. 
+
+<img src="{{ BASE_PATH }}/assets/images/paul-tux.png" alt="Paul Tux"/>

@@ -56,3 +56,7 @@ My teaching is informed by thousands of performances over the course of my caree
 *   New England Conservatory Country Fiddle Band “One Hundred Years Of Country Dance Music” Columbia Records, Gunther Schuller, director.
 * NEC Jazz Repertory Orchestra featuring Joe Venuti: ["Happy Feet! A Tribute to Paul Whiteman"](http://www.cduniverse.com/productinfo.asp?pid=6140838&amp;style=music&amp;frm=lk_jzmtz&quot;) Golden Crest Records, director: Gunther Schuller
 *   Wendy Frank: "Human Nature - Environmental Awareness Songs for Children"
+
+
+<img src="{{ BASE_PATH }}/assets/images/dbl-take-paul-small.gif" alt="Paul Double Take small"/>
+It's a double exposure, but kinda cool, isn't it? At the Utica NY Summertime Festival, with Alice Johnson and Henrique Almeida
