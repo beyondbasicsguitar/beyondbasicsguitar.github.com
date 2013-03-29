@@ -33,11 +33,15 @@ footer p {
   color: rgb(202, 202, 202);
 }
 
+.navbar .nav  li {
+  padding-right: 20px;
+}
+
 .navbar .nav > li > a {
-  color: #bbb;
-  font-family: "PT Sans" sans-serif;
-  text-transform: uppercase;
-  font-weight: 700;
+  color: #fcd6a4;
+  font-family: Calibri "PT Sans" sans-serif;
+  /*text-transform: uppercase;*/
+  font-size: large;
 }
 
 .navbar .nav > li:hover {
@@ -213,5 +217,13 @@ background: #fff url("../img/blockquote.png") no-repeat 4px top;
 .home-pic-caption p {
   line-height: 0.6em;
   font-family: "Lato", "sans", serif;
-  font-size: 1.3em;
+  font-size: 1em;
+}
+
+.home-banner h1 {
+  font-family: "Open Sans", sans-serif;
+}
+
+.home-banner h2 {
+  font-family: "Lato", serif;
 }

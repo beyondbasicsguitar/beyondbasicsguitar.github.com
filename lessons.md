@@ -8,7 +8,7 @@ guitar: { image: "assets/images/sidebar-gibson-L5.png" }
 ---
 {% include JB/setup %}
 
-## Why Study With Paul?
+### Why Study With Paul?
 
 * Learn from a professional musician and teacher with over three decades of experience
 
@@ -23,6 +23,8 @@ guitar: { image: "assets/images/sidebar-gibson-L5.png" }
 * Work with a teacher who can quickly ascertain what's missing in your technique and key to your continued development
 
 * Learn from a teacher who plays and enjoys many genres and styles
+
+<br/>
 
 **Where:** All lessons are taught at my home studio in East Hartford, CT.
 
