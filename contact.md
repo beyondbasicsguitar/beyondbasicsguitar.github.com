@@ -9,8 +9,6 @@ submenu:
 ---
 {% include JB/setup %}
 
-#Contact
-
 Please feel free to contact me to discuss your interests, questions, available time slots and any other scheduling concerns.
 
 Email: pshumsky@gmail.com
