@@ -8,6 +8,10 @@ footer p {
   text-align: center; /* center align it with the container */
 }
 
+p {
+  font-family: Calibri, Helvetica, sans-serif;
+}
+
 /* The white background content wrapper */
 .content {
   background-color: #fff;
