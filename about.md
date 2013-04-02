@@ -27,7 +27,7 @@ My teaching is informed by thousands of performances over the course of my caree
 *   Species counterpoint, composition and piano studies with Dr. Avram David 1981-1990, Craig Najjar, Sonny Kompanek
 *   Additional guitar/jazz studies with Jacki Byard, Jim Scott, Chuck Mangione, Brett Wilmott, Tom Rizzo, Robert Paul Sulllivan, Alan Hager
 *   Voice studies with Mark Baxter, Jan Shapiro, Pearl Layton
-
+ 
 ## Guitar Faculty
 
 *   U Mass Dartmouth ('92-'98)
