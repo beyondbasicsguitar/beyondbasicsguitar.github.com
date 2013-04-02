@@ -15,7 +15,7 @@ submenu:
 {% include JB/setup %}
 
 
-My teaching is informed by thousands of performances over the course of my career, in concert halls, theatres, clubs, festivals, coffee houses, colleges, schools, weddings, corporate events, musicals, live radio and TV, studio recording and more. I have performed in diverse styles, including jazz, rock, blues, swing, funk, classical, African and Brazilian-influenced worldbeat, Dixieland, and in conducted orchestras and wind ensembles. I customize and personalize your lessons, drawing upon this rich, musical background to respond to your specific questions and style interests.
+My teaching is informed by thousands of performances over the course of my career, in concert halls, theatres, clubs, festivals, coffee houses, colleges, schools, weddings, corporate events, musicals, live radio and TV, studio recording and more. I have performed in diverse styles, including jazz, rock, blues, swing, funk, classical, African and Brazilian-influenced worldbeat, Dixieland, and in conducted orchestras and wind ensembles. This rich, performance background combined with my three decades of private instruction helps me quickly evaluate where you are as a player. I can customize and personalize your lessons based on what I see is missing or needs work in your technique and overall musicianship.
 
 
 ## Education
