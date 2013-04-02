@@ -32,9 +32,7 @@ guitar: { image: "assets/images/sidebar-gibson-L5.png" }
 
 **When:**  Monday - Thursday evenings, 6-9pm
 
-**Length:**  One hour.
-
- **I believe** the 30 minute lesson is designed primarily to help the teacher to make as much money as possible, not to help students learn, **so I don’t offer 30 minute lessons**. I purposely keep my hourly rate very reasonable so that most people can afford a full hour. This means I can take the time to really work with you, mentor you, answer your questions more fully, demonstrate techniques, play with you and show by example how it’s done. It's so much more fun for both you and me!
+**Length:**  One hour. I believe the 30 minute lesson is designed primarily to help the teacher make as much money as possible, not to help students learn, **so I don’t offer 30 minute lessons**. I purposely keep my hourly rate very reasonable so that most people can afford a full hour. This means I can take the time to really work with you, mentor you, answer your questions more fully, demonstrate techniques, play with you and show by example how it’s done. It's so much more fun for both you and me!
 
 **Frequency:**   I prefer weekly lessons whenever possible. It allows me to monitor your progress better, correcting technique problems or misunderstandings before they become ingrained. Sometimes, students prefer to come biweekly or even monthly due to limited practice time or financial constraints. I don’t have a problem with this but recommend we try to start our work together with several consecutive, weekly lessons to establish some foundation, direction and rapport.
 
