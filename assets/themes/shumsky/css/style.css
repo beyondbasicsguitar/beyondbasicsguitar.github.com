@@ -1,17 +1,20 @@
 /* Override some defaults */
-html, body {
+body {
   
   background-image: url("../img/background.png");
   border-repeat: repeat: 
+  padding-bottom:60px;
 }
+
+
+
+
+
 footer p {
   text-align: center; /* center align it with the container */
 }
 
-p {
-  font-family: Calibri, Helvetica, sans-serif;
-}
-
+.content 
 /* The white background content wrapper */
 .content {
   background-color: #fff;
@@ -170,12 +173,27 @@ p {
 
 .home .content {
    background-image: url('../img/guitar-bg.png');
-    background-repeat: no-repeat;    
-  -webkit-box-shadow: 0 2px 2px rgba(0,0,0,.15);
-     -moz-box-shadow: 0 2px 2px rgba(0,0,0,.15);
-          box-shadow: 0 2px 2px rgba(0,0,0,.15);
-    padding-bottom: 50px;
+    background-repeat: no-repeat;
+
+    background-color: #fff;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+ 
+    /* Inner top shadow */
+    -moz-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
+    box-shadow: inset -1px 3px 5px rgba(0, 0, 0, 0.15);
+
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 20px;
     margin-bottom:12px;
+}
+
+.home .content .row {
+   
 }
 
 .home-list-banner h2 {
@@ -202,15 +220,21 @@ border: 1px dotted #ddd;
 font-style: italic;
 color: #474747;
 background: #fff url("../img/blockquote.png") no-repeat 4px top;
+
+   /* Inner top shadow */
+    -moz-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
+    box-shadow: inset -1px 3px 5px rgba(0, 0, 0, 0.15);
 }
 
 .tagline {
   padding: 5px;
   background-color: #eee;
   font-family: "Lato", "sans", serif;
-  -webkit-box-shadow: 0 2px 2px rgba(0,0,0,.15);
-     -moz-box-shadow: 0 2px 2px rgba(0,0,0,.15);
-          box-shadow: 0 2px 2px rgba(0,0,0,.15);
+  -webkit-box-shadow: inset -1px -2px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: inset -1px -2px 2px rgba(0,0,0,.15);
+          box-shadow: inset -1px -2px 2px rgba(0,0,0,.15);
+
 }
 
 .copyright-text {
@@ -226,8 +250,52 @@ background: #fff url("../img/blockquote.png") no-repeat 4px top;
 
 .home-banner h1 {
   font-family: "Open Sans", sans-serif;
+  text-shadow: 0px 1px 1px #4d4d4d;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .home-banner h2 {
-  font-family: "Lato", serif;
+  font-family: Calibri, "Lato", sans-serif;
+  
+  font-size: 28px;
+}
+
+
+
+footer {
+  position: absolute;
+  bottom:0;
+  color: #fcd6a4;
+  text-shadow: 0px 1px 1px rgba(252,214,164,0.1);
+  background-color: #000;
+  margin-top: -10px;
+  padding-top: 20px;
+  height: 60px;
+  padding-bottom: 12px;
+  width: 100%;
+  clear:both;
+}
+
+
+
+#footer-list {
+  width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#footer-list li
+{
+display: inline;
+font-size: 22px;
+font-variant:small-caps;
+list-style-type: none;
+padding-right: 20px;
+}
+
+#footer-list li span{
+    background:url('../img/img-separator.png') no-repeat center;
+    padding-left: 30px;
+    padding-right: 10px;
 }

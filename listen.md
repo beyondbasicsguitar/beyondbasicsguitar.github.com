@@ -7,7 +7,9 @@ guitar: { image: "assets/images/sidebar-dangelo-ex-dc-sp.png" }
 ---
 {% include JB/setup %}
 
-
+<div class="side-image">
+	<img src="{{ BASE_PATH }}/assets/images/steve-and-paul.jpg" width="40%" height="40%" style="float:right; "></img>
+</div>
 
 __You never quite know what's going to happen__ when you're jamming with [Steve Greene](http://www.stevegreene.com/), my old high school music buddy and noted Rochester, NY jazz guitarist and teacher. Steve and I go back over 40 years! We recently got together and played some tunes in honor of my mom's 86th birthday and the following cuts ensued. Recorded 1-21-2012 in the home of Tom Hampson, host of Rochester's longest-running jazz broadcast on public radio station WXXI, "Jazz from the Cellar" and my number one step-dad!
 
