@@ -64,6 +64,16 @@
                   {% endif %}
                 {% endfor %}
               {% endfor %}
+               <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">More <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  {% for page in site.pages %}
+                    {% if page.categories contains 'more' %}
+                        <li><a href="{{ BASE_PATH }}{{ page.url }}">{{ page.title }}</a></li>
+                    {% endif %}
+                {% endfor %}
+                </ul>
+              </li>
             </ul>
             <!-- <ul class="navbar-text pull-right">
               <div rel="popover" data-html="true" id="navbar-name" data-toggle="popover" data-content="

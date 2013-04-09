@@ -4,7 +4,6 @@ title: "Lessons"
 description: ""
 group: navigation
 weight: 2
-guitar: { image: "assets/images/sidebar-gibson-L5.png" }
 ---
 {% include JB/setup %}
 
@@ -24,7 +23,7 @@ guitar: { image: "assets/images/sidebar-gibson-L5.png" }
 
 * Learn from a teacher who plays and enjoys many genres and styles
 
-<br/>
+<hr/>
 
 **Where:** All lessons are taught at my home studio in East Hartford, CT.
 

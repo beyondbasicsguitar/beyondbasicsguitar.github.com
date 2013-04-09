@@ -3,6 +3,26 @@
 </div>
 <div class="span3 sidebar affix">
 
+{% if page.title == "Contact" %}
+
+<div class="sidebar-box">
+	<div class="sidebar-title">
+	Planning on going to Berklee College? 
+	I can help you:
+	</div>
+	<div class="sidebar-body">
+		<ul>
+			<li>Improve your chances of admittance</li>
+			<li>Learn Berklee's harmony system</li>
+			<li>Score well in placement tests and skip prerequisites</li>
+			<li>Develop your sight reading skills</li>
+			<li>Make the most of your college experience</li>
+		</ul>
+	</div>
+</div>
+
+{% endif %}
+
 <ul class="nav nav-list nav-pills nav-stacked">
         {% for item in page.submenu %}
           <li><a href="#{{ item.anchor }}"> {{ item.title }}</a></li>

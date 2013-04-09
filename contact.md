@@ -4,8 +4,6 @@ title: "Contact"
 description: ""
 group: navigation
 weight: 3
-submenu:
-- {anchor: "booking_information", title: "Booking Information"}
 ---
 {% include JB/setup %}
 

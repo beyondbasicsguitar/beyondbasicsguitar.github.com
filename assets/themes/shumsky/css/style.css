@@ -3,7 +3,7 @@ body {
   
   background-image: url("../img/background.png");
   border-repeat: repeat: 
-  padding-bottom:60px;
+  height: 100%;
 }
 
 
@@ -14,7 +14,6 @@ footer p {
   text-align: center; /* center align it with the container */
 }
 
-.content 
 /* The white background content wrapper */
 .content {
   background-color: #fff;
@@ -119,6 +118,8 @@ footer p {
 
 .site-body {
   margin-top: 10px;
+  padding-bottom: 60px;
+  min-height: 100%;
 }
 
 
@@ -260,18 +261,45 @@ background: #fff url("../img/blockquote.png") no-repeat 4px top;
   font-size: 28px;
 }
 
+.sidebar-box {
+  padding-bottom: 5px;
+  /* Inner top shadow */
+    -moz-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
+    box-shadow: inset -1px 3px 5px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar-title {
+  font-family: Calibri, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+  padding: 5px;
+  background-color: #fcd6a4;
+}
+
+.sidebar-body ul {
+  list-style-type: none;
+  margin: 0px;
+}
+
+.sidebar-body li {
+  padding: 2px;
+}
+
+.sidebar-body ul li+li {
+  border-top: solid 1px #000;
+}
+
 
 
 footer {
   position: relative;
-  bottom:0;
+  bottom: 0;
   color: #fcd6a4;
   text-shadow: 0px 1px 1px rgba(252,214,164,0.1);
   background-color: #000;
-  margin-top: -10px;
-  padding-top: 20px;
+  margin-top: -60px;
+  padding-top: 22px;
   height: 60px;
-  padding-bottom: 12px;
   width: 100%;
   clear:both;
 }
