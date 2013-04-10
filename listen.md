@@ -81,9 +81,7 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 [What It's All About (5:10, original version)]({{BASE_PATH}}/assets/music/what_it's_all_about.mp3)
 
+[Freedom]({{BASE_PATH}}/assets/music/freedomclip.mp3) Guitar solo from Freedom
 
-### Miscellaneous
-[Freedom]({{BASE_PATH}}/assets/music/freedomclip.mp3) Clip from Wildest Dreams first CD, One Voice!
-
-[Trouble]({{BASE_PATH}}/assets/music/trouble.mp3) Clip from Wildest Dreams second CD, Peace Planet.
+[Trouble]({{BASE_PATH}}/assets/music/trouble.mp3) Guitar solo from Trouble
 
