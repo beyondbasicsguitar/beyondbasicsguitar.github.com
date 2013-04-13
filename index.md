@@ -13,7 +13,7 @@ title: Beyond Basics Guitar
 	<li>Always wanted to learn but were afraid it wouldn't be fun?</li>
 </ul>
 <div class="quote">
-<em>"Regardless of what we're working on - technique, theory, repertoire, improv - I leave every lesson feeling like I've learned something new,
+<em>"...Regardless of what we're working on - technique, theory, repertoire, improv - I leave every lesson feeling like I've learned something new,
 practical, and essential."    – J. P., Boston MA</em>
     
 </div>

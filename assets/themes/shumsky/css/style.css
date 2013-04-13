@@ -218,15 +218,9 @@ footer p {
   
 min-height: 40px;
 padding: .6em 1em .6em 2.4em;
-border: 1px dotted #ddd;
 font-style: italic;
 color: #474747;
-background: #fff url("../img/blockquote.png") no-repeat 4px top;
 
-   /* Inner top shadow */
-    -moz-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
-    -webkit-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
-    box-shadow: inset -1px 3px 5px rgba(0, 0, 0, 0.15);
 }
 
 .home .quote {
@@ -319,7 +313,8 @@ footer {
 
 
 #footer-list {
-  width: 700px;
+  max-width: 700px;
+  overflow-y: hidden;
   display: block;
   margin-left: auto;
   margin-right: auto;

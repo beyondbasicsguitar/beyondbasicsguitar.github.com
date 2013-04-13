@@ -38,7 +38,6 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 ### Jazz Circle Duo Live at Gabrielle’s, Centerbrook, CT (Steve Roane, bass)
 
-**Live at Gabrielle's** in Centerbrook, CT 
 
 [The Nearness of You]({{BASE_PATH}}/assets/music/The%20Nearness%20of%20You.mp3)
 
@@ -46,7 +45,7 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 <hr/>
 
-## Jazz Circle Duo (Matt McCauley on acoustic bass):
+### Jazz Circle Duo (Matt McCauley on acoustic bass):
 
 [Up Jumped Spring]({{BASE_PATH}}/assets/music/Up%20Jumped%20Spring.mp3) 
 
@@ -59,16 +58,17 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 <hr/>
 
 
-## Live at the Red Rock Bistro in Swampscott, MA with my former student, [Evan Goodrow](http://www.EvanGoodrow.com): 
+### Live at the Red Rock Bistro in Swampscott, MA with my former student, [Evan Goodrow](http://www.EvanGoodrow.com): 
 
 [Bluesette]({{BASE_PATH}}/assets/music/bluesette.mp3). A guitar duet, I play the lead, first solo and outchoruses.
 
 <hr/>
+### College Test Blues 
 
 [The College Test Blues]({{BASE_PATH}}/assets/music/college_test_blues.mp3) Some years ago, a friend of mine asked me to produce a theme song for his SAT test prep video. So I wrote "The College Test Blues" and got some friends together to record it. It features the fine vocals of my old pal, Sal Sansone. We had some fun kicking out the jams that day!
 
 <hr/>
-## Wildest Dreams First CD
+### Wildest Dreams First CD
 
 **Wildest Dreams** has decided to make available for download our complete 1st EP CD. It was recorded at SyncroSound Studio, (the Cars’ old studio in Boston). It captures the band during its early prime time. The excitement and fun we had making that recording is palpable, at least to my ears! Feel free to download these songs. If you enjoy them and would like to help us recoup the considerable costs we incurred creating this recording, please send a 99 cent donation per cut to the Dreamers, via [Paypal](http://www.paypal.com) account pshumsky@gmail.com. Thanks.
 
@@ -81,9 +81,7 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 [What It's All About (5:10, original version)]({{BASE_PATH}}/assets/music/what_it's_all_about.mp3)
 
+[Freedom]({{BASE_PATH}}/assets/music/freedomclip.mp3) Guitar solo from Freedom
 
-## Miscellaneous
-[Freedom]({{BASE_PATH}}/assets/music/freedomclip.mp3) Clip from Wildest Dreams first CD, One Voice!
-
-[Trouble]({{BASE_PATH}}/assets/music/trouble.mp3) Clip from Wildest Dreams second CD, Peace Planet.
+[Trouble]({{BASE_PATH}}/assets/music/trouble.mp3) Guitar solo from Trouble
 
