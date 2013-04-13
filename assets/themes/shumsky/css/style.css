@@ -4,6 +4,7 @@ body {
   background-image: url("../img/background.png");
   border-repeat: repeat: 
   height: 100%;
+  font-style: Calibri, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 
@@ -210,7 +211,7 @@ footer p {
   font-size: 1.5em;
 }
 
-.quote {
+.quote-testimonials {
   font-family: "Vollkorn", sans-serif;
   line-height: 2em;
   font-size: 1.5em;
@@ -226,6 +227,17 @@ background: #fff url("../img/blockquote.png") no-repeat 4px top;
     -moz-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
     -webkit-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
     box-shadow: inset -1px 3px 5px rgba(0, 0, 0, 0.15);
+}
+
+.home .quote {
+  font-family: "Vollkorn", sans-serif;
+  line-height: 2em;
+  font-size: 1.5em;
+  
+min-height: 40px;
+padding: .6em 1em .6em 2.4em;
+font-style: italic;
+color: #474747;
 }
 
 .tagline {
@@ -315,9 +327,8 @@ footer {
 
 #footer-list li
 {
-display: inline;
+display: inline-block;
 font-size: 22px;
-font-variant:small-caps;
 list-style-type: none;
 padding-right: 20px;
 }
