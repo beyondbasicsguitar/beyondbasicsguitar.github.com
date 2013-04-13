@@ -5,12 +5,10 @@ description: ""
 group: navigation
 weight: 2
 guitar: { image: "assets/images/sidebar-gibson-400.png" }
-submenu:
-- { anchor: "professional_musicican", title: "Professional Musician"}
-- { anchor: "education", title: "Education"}
-- { anchor: "guitar_faculty", title: "Guitar Faculty"}
-- { anchor: "performance_history", title: "Performance History"}
-- { anchor: "recordings", title: "Recordings"}
+sidebar_pictures:
+- { image: "assets/images/sidebar/paul_alice_1_dbl.jpg" } 
+- { image: "assets/images/sidebar/paul_alice_2.jpg" }
+- { image: "assets/images/sidebar/paul_alice_3.jpg" }
 ---
 {% include JB/setup %}
 
@@ -57,6 +55,3 @@ My teaching is informed by thousands of performances over the course of my caree
 * NEC Jazz Repertory Orchestra featuring Joe Venuti: ["Happy Feet! A Tribute to Paul Whiteman"](http://www.cduniverse.com/productinfo.asp?pid=6140838&amp;style=music&amp;frm=lk_jzmtz&quot;) Golden Crest Records, director: Gunther Schuller
 *   Wendy Frank: "Human Nature - Environmental Awareness Songs for Children"
 
-
-<img src="{{ BASE_PATH }}/assets/images/dbl-take-paul-small.gif" alt="Paul Double Take small"/>
-It's a double exposure, but kinda cool, isn't it? At the Utica NY Summertime Festival, with Alice Johnson and Henrique Almeida

@@ -23,6 +23,17 @@
 
 {% endif %}
 
+{% if page.sidebar_pictures %}
+	<div class="sidebar-box" >
+
+		{% for picture in page.sidebar_pictures %}
+				<img src="{{ picture.image }}" style="width:100%;"></img>
+		{% endfor %}
+	</div>
+
+
+{% endif %}
+
 <ul class="nav nav-list nav-pills nav-stacked">
         {% for item in page.submenu %}
           <li><a href="#{{ item.anchor }}"> {{ item.title }}</a></li>
