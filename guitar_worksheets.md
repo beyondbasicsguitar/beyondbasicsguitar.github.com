@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Guitar Worksheets"
+title: "Music Theory Worksheets"
 categories: ["more"]
 description: ""
 ---
