@@ -180,14 +180,7 @@ footer p {
     background-color: #fff;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
  
-    /* Inner top shadow */
-    -moz-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
-    -webkit-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
-    box-shadow: inset -1px 3px 5px rgba(0, 0, 0, 0.15);
-
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
+   
     padding-left: 5px;
     padding-top: 10px;
     padding-bottom: 20px;
@@ -267,6 +260,10 @@ color: #474747;
   font-size: 28px;
 }
 
+.sidebar {
+  margin-top: 60px;
+}
+
 .sidebar-box {
   padding-bottom: 5px;
   /* Inner top shadow */
@@ -277,23 +274,22 @@ color: #474747;
 
 .sidebar-title {
   font-family: Calibri, "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   padding: 5px;
   background-color: #fcd6a4;
 }
 
 .sidebar-body ul {
-  list-style-type: none;
+  /*list-style-type: none;*/
   margin: 0px;
+  margin-left: 20px;
 }
 
 .sidebar-body li {
-  padding: 2px;
+  padding: 4px;
 }
 
-.sidebar-body ul li+li {
-  border-top: solid 1px #000;
-}
+
 
 
 
