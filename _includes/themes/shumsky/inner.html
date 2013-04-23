@@ -23,6 +23,19 @@
 
 {% endif %}
 
+{% if page.title == "Blog" %}
+
+<div class="sidebar-box">
+	<div class="sidebar-title">
+	Archive
+	</div>
+	<div class="sidebar-body">
+		{% assign posts_collate = site.posts %}
+		{% include JB/posts_collate %}
+	</div>
+</div>
+{% endif %}
+
 {% if page.sidebar_pictures %}
 	<div class="sidebar-box" >
 

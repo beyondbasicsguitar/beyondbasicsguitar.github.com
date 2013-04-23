@@ -25,6 +25,7 @@ __You never quite know what's going to happen__ when you're jamming with [Steve 
 
 [Alone Together]({{BASE_PATH}}/assets/music/Alone%20Together.mp3) Steve takes the head, I play the first solo.
 
+<hr/>
 [I'll Remember April]({{BASE_PATH}}/assets/music/I'll%20Remember%20April.mp3) I take the head, Steve plays the first solo.
 
 
@@ -57,15 +58,17 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 <hr/>
 
+### College Test Blues 
+
+[The College Test Blues]({{BASE_PATH}}/assets/music/college_test_blues.mp3) Some years ago, a friend of mine asked me to produce a theme song for his SAT test prep video. So I wrote "The College Test Blues" and got some friends together to record it. It features the fine vocals of my old pal, Sal Sansone. We had some fun kicking out the jams that day!
+
+<hr/>
 
 ### Live at the Red Rock Bistro in Swampscott, MA with my former student, [Evan Goodrow](http://www.EvanGoodrow.com): 
 
 [Bluesette]({{BASE_PATH}}/assets/music/bluesette.mp3). A guitar duet, I play the lead, first solo and outchoruses.
 
-<hr/>
-### College Test Blues 
 
-[The College Test Blues]({{BASE_PATH}}/assets/music/college_test_blues.mp3) Some years ago, a friend of mine asked me to produce a theme song for his SAT test prep video. So I wrote "The College Test Blues" and got some friends together to record it. It features the fine vocals of my old pal, Sal Sansone. We had some fun kicking out the jams that day!
 
 <hr/>
 ### Wildest Dreams First CD

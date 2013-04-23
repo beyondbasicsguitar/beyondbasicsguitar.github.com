@@ -25,7 +25,5 @@ Please contact me for current rates and availability.
 
 * [repertoire list](/guitar_repertoire.html)
 
-* [comments from former clients](/guitar_perf_testimonials.html)
-
 
 <img src="{{ BASE_PATH }}/assets/images/paul-tux.png" alt="Paul Tux"/>

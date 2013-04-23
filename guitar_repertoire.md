@@ -5,6 +5,29 @@ description: ""
 ---
 {% include JB/setup %}
 
+<style type="text/css">
+.quote-testimonials {
+	font-family: PT Sans, sans-serif;
+	line-height: 1.3em;
+	white-space: pre-wrap;
+}
+
+
+</style>
+
+<p class="quote-testimonials">
+
+"Thanks again for your great music at our party. Your playing was beautiful and the music added a very nice atmosphere to the "quieter" end of the day. Many people spoke of how impressed they were with your playing. We will have good memories for a long time!"
+
+<strong>Laurie and Brian Semprebon</strong>
+</p>
+---
+<p class="quote-testimonials">
+"Everyone at the wedding enjoyed your music. Tastefully selected and tastefully performed. Thanks for learning our special song, Theme from a Man and a Woman, and for working on song selection and appropriateness. I would highly recommend you."
+
+<strong>Rob Seidel</strong>
+</p>
+
 ..Duke Ellington, Cole Porter, George Gershwin, Charlie Parker, Miles Davis, Jerome Kern, J.S. Bach, Antonio Carlos Jobim, Rogers & Hart, the Beatles...My repertoire draws material from the classic American composers of jazz, spanning the swing, bebop, blues and cool genres and also includes lots of Brazilian, Latin and Tin Pan Alley standards. A few classical pieces and pop tunes may also find their way into my sets.
 
 (some of my favorites...)
