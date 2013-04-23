@@ -7,6 +7,10 @@ weight: 3
 ---
 {% include JB/setup %}
 
+<div class="side-image">
+	<img src="{{ BASE_PATH }}/assets/images/paul-tux.png" alt="Paul Tux" style="float:right; width:30%; height:30%;"/>
+</div>
+
 Please feel free to contact me to discuss your interests, questions, available time slots and any other scheduling concerns.
 
 Email: pshumsky@gmail.com
@@ -26,4 +30,3 @@ Please contact me for current rates and availability.
 * [repertoire list](/guitar_repertoire.html)
 
 
-<img src="{{ BASE_PATH }}/assets/images/paul-tux.png" alt="Paul Tux"/>
