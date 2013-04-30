@@ -1,25 +1,39 @@
-<div class="pictures set">	
+<ul class="pictures set">	
 {% for pic in page.pictures %}
-  <div class="picture-row row">
-  	<div class="picture span4">
-	  <a href="{{pic.url}}" rel="lightbox[gallery]" title="{{pic.caption}}">
+	<li>
+	  <a href="{{pic.url}}" rel="lightbox[gallery]"    title="{{pic.caption}}">
 	  	<img src="{{pic.url}}" alt="{{ pic.caption }}"/>
 	  </a>
-	</div>
-	<div class="description span3">
-	  {{pic.caption}}
-	  {% if pic.photo_by %}
-	  <div class="photo-by">
-	  	Photo by: {{ pic.photo_by }}
-	  </div>
-	  {% endif %}
-	</div>
-  </div>
+  </li>
 {% endfor %}
-</div>
+</ul>
+
+
 
 <style type="text/css">
-	.picture-row {
+
+img {
+	height: 200px;
+	width: auto;
+}
+
+ul.set {
+	display: inline-block;
+	list-style-type: none;
+}
+
+ul.set li {
+	display: inline-block;
+	
+	border: solid 5px #eee;
+	margin: 5px;
+}
+
+ul.set li:hover {	
+	border: solid 5px #bbb;
+	margin: 5px;
+}
+/*	.picture-row {
 		margin-left: 4px;
 		overflow: none;
 	}
@@ -37,7 +51,8 @@
 	}
 	.picture-row:nth-of-type(even) .description {
 		float: right;
-	}
+	}*/
 
 	
 </style>
+

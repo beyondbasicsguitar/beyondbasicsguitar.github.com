@@ -1,0 +1,36 @@
+<div class="span8 content">
+        {{ content }}
+</div>
+<div class="span3 sidebar affix">
+
+
+
+
+<div class="sidebar-box">
+	<div class="sidebar-title">
+	Archive
+	</div>
+	<div class="sidebar-body">
+		{% assign posts_collate = site.posts %}
+		{% include JB/posts_collate %}
+	</div>
+</div>
+
+{% if page.sidebar_pictures %}
+	<div class="sidebar-box" >
+
+		{% for picture in page.sidebar_pictures %}
+				<img src="{{ picture.image }}" style="width:100%;"></img>
+		{% endfor %}
+	</div>
+
+
+{% endif %}
+
+
+{% if page.guitar %}
+  <img src="{{ BASE_PATH }}/{{ page.guitar.image }}"></img>
+{% endif %}
+</div>
+      
+  

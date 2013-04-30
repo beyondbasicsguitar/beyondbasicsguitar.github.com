@@ -31,9 +31,15 @@ footer p {
 /*.navbar {
   background-color: #000;
 }*/
+
+.navbar {
+  filter:none;
+
+}
+
 .navbar-inner {
   background: rgb(0,9, 10) url("../img/navbar-background.png");
-
+  filter: none;
 }
 
 .navbar .brand {
@@ -43,6 +49,8 @@ footer p {
 .navbar .nav  li {
   padding-right: 10px;
 }
+
+
 
 .navbar .nav > li > a {
   color: #fcd6a4;

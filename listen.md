@@ -1,10 +1,15 @@
 ---
-layout: samples
+layout: no-sidebar
 title: "Listen"
 description: ""
 weight: 4
 ---
 {% include JB/setup %}
+<style type="text/css">
+	hr {
+		background:#F87431; border:0; height:4px;
+	}
+</style>
 
 <div class="side-image">
 	<img src="{{ BASE_PATH }}/assets/images/steve-and-paul.jpg"  style="float:right; width:40%; height:40%; "></img>
@@ -25,9 +30,11 @@ __You never quite know what's going to happen__ when you're jamming with [Steve 
 
 [Alone Together]({{BASE_PATH}}/assets/music/Alone%20Together.mp3) Steve takes the head, I play the first solo.
 
-<hr/>
 [I'll Remember April]({{BASE_PATH}}/assets/music/I'll%20Remember%20April.mp3) I take the head, Steve plays the first solo.
 
+<hr/>
+
+<img src="{{BASE_PATH}}/assets/images/pp_cover.jpg" style="float:right; height: 120px; width: auto;" alt="Peace Planet Cover"/>
 
 [Face of Love]({{BASE_PATH}}/assets/music/faceoflove.mp3) This is a tune I wrote for Wildest Dreams' Peace Planet CD. Produced by Miguel Sa Pessoa and Nando Laria.
 
