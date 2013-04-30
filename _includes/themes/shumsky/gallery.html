@@ -1,12 +1,14 @@
 <ul class="pictures set">	
 {% for pic in page.pictures %}
-	<li>
+	<li class="picture-box" data-description="{{pic.caption}}">
 	  <a href="{{pic.url}}" rel="lightbox[gallery]"    title="{{pic.caption}}">
 	  	<img src="{{pic.url}}" alt="{{ pic.caption }}"/>
 	  </a>
+	  <div class="picture-description" style="display:none;">{{pic.caption}}</div>
   </li>
 {% endfor %}
 </ul>
+
 
 
 
@@ -33,25 +35,6 @@ ul.set li:hover {
 	border: solid 5px #bbb;
 	margin: 5px;
 }
-/*	.picture-row {
-		margin-left: 4px;
-		overflow: none;
-	}
-	.picture-row:nth-of-type(even){
-		background-color: rgb(150, 144, 144);
-	}
-	.picture-row:nth-of-type(odd) .picture{
-		float:left;
-	}
-	.picture-row:nth-of-type(odd) .description {
-		float: right;
-	}
-	.picture-row:nth-of-type(even) .picture{
-		float:right;
-	}
-	.picture-row:nth-of-type(even) .description {
-		float: right;
-	}*/
 
 	
 </style>
