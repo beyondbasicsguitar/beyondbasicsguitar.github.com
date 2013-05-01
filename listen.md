@@ -9,6 +9,10 @@ weight: 4
 	hr {
 		background:#F87431; border:0; height:1px;
 	}
+	
+	img {
+		padding-left: 10px;
+	}
 </style>
 
 <div class="side-image">
