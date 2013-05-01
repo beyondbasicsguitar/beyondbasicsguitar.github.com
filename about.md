@@ -18,7 +18,7 @@ My teaching is informed by thousands of performances over the course of my caree
 
 ## Education
 
-*   B. M. in Jazz Guitar Performance, [New England Conservatory](http://necmusic.edu/), 1978
+*   B. M. in Jazz Guitar Performance, [New England Conservatory of Music](http://necmusic.edu/), 1978
 *   Additional studies at [Berklee College](http://www.berklee.edu) in Music Synthesis and Songwriting, 1987-'88
 *   [Eastman School of Music](http://www.rochester.edu/Eastman/), Jazz Studies ('75-'77)
 *   Jazz guitar studies with Mick Goodrick, Barry Galbraith, Charlie Banacos, Gene Bertoncini, Chuck Wayne
