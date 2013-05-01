@@ -54,7 +54,7 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 [The Nearness of You]({{BASE_PATH}}/assets/music/The%20Nearness%20of%20You.mp3)
 
-[Impressions]({{BASE_PATH}}/assets/music/Impressions.mp3).
+[Impressions]({{BASE_PATH}}/assets/music/Impressions.mp3)
 
 <hr/>
 
