@@ -45,6 +45,7 @@ __You never quite know what's going to happen__ when you're jamming with [Steve 
 [Morning Trance]({{BASE_PATH}}/assets/music/morning_trance.mp3) 
 Not previously released, live jam from Wildest Dreams studio sessions, live to two track (11 minutes). This clip needs a little introduction. Wildest Dreams always started rehearsals with a free jam to get warmed up. When we went into Soundworks Studio to start recording our 2nd CD, we set up everything the night before and started off fresh the next morning with a warmup jam. It took the engineer a minute to realize, "Hey, they're playing something good, I better turn on the recorder!" This clip is what transpired. A brief version with additions eventually was included on the Peace Planet CD, but I always loved this pure, live moment in time.
 
+[Trouble]({{BASE_PATH}}/assets/music/trouble.mp3) Guitar solo except from Peace Planet CD.
 
 <hr/>
 
@@ -97,5 +98,4 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 [Freedom]({{BASE_PATH}}/assets/music/freedomclip.mp3) Guitar solo from Freedom
 
-[Trouble]({{BASE_PATH}}/assets/music/trouble.mp3) Guitar solo from Trouble
 
