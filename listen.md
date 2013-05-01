@@ -58,7 +58,7 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 <hr/>
 
-### Jazz Circle Duo (Matt McCauley on acoustic bass):
+### Jazz Circle Duo (Matt McCauley, bass):
 
 [Up Jumped Spring]({{BASE_PATH}}/assets/music/Up%20Jumped%20Spring.mp3) 
 
