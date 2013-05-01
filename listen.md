@@ -96,6 +96,6 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 [What It's All About (5:10, original version)]({{BASE_PATH}}/assets/music/what_it's_all_about.mp3)
 
-[Freedom]({{BASE_PATH}}/assets/music/freedomclip.mp3) Guitar solo from Freedom
+[Freedom]({{BASE_PATH}}/assets/music/freedomclip.mp3) Guitar solo excerpt from One Voice CD.
 
 
