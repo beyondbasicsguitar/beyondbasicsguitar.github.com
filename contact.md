@@ -19,7 +19,7 @@ weight: 3
 
 
 <div class="side-image">
-	<img src="{{ BASE_PATH }}/assets/images/paul_greyscale.gif" alt="Paul Drawing" style="float:right; width:30%; height:30%; margin-right: -30px; border: solid 1px;"/>
+	<img src="{{ BASE_PATH }}/assets/images/paul_greyscale.gif" alt="Paul Drawing" style="float:right; width:30%; height:30%; margin-right: -25px; border: solid 3px;"/>
 </div>
 
 Please feel free to contact me to discuss your interests, questions, available time slots and any other scheduling concerns.
