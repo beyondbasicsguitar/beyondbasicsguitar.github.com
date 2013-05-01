@@ -38,7 +38,7 @@ footer p {
 }
 
 .navbar-inner {
-  background: rgb(0,9, 10) url("../img/navbar-background.png");
+  /*background: rgb(0,9, 10) url("../img/navbar-background.png");*/
   filter: none;
 }
 
