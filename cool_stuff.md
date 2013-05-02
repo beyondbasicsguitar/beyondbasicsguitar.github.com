@@ -10,8 +10,6 @@ description: ""
 
 * [Free staff paper of all kinds](http://people.virginia.edu/~pdr4h/musicpaper/)
 
-* [Interactive Music Theory and Ear Training tests](http://academics.hamilton.edu/music/spellman/JavaMusic)
-
 * [Handy online metronome!](http://www.metronomeonline.com/)
 
 * [History of the 'original' Real Book](http://en.wikipedia.org/wiki/Real_Book) What is the Real Book? And why should any aspiring jazz musician have one? Read the history here. I got mine around 1972 and it was a xerox copy of the original illicit version!
