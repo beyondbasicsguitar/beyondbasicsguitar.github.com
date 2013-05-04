@@ -25,6 +25,13 @@ Paul's a great teacher. Patient and knowledgeable, he creates a relaxed environm
 </p>
 ---
 <p class="quote-testimonials" >
+Paul is an amazing teacher. He judged very quickly my level as a student and tailored his instruction accordingly, teaching me both what I wanted to know and what I needed to know. Every lesson was valuable: he fed me new material as fast as I could take it, and my improvement over a span of just a couple of weeks was tremendous. He maintains a comfortable learning environment. If I got flustered while trying to play something, he was able to work me through it, and once you're flustered, that's hard to do. I recommend Paul whole-heartedly.
+
+<strong>– Aaron Parsons, Harvard University</strong>
+</p>
+---
+
+<p class="quote-testimonials">
 I have been studying with Paul for almost 3 years now and I couldn't have had a better guide for this musical journey. It was obvious from my first lesson he was a very experienced teacher. Just by listening to where I was at on the guitar he was able to quickly plan my trip for me. He was able to blend a healthy balance of theory and musical ideas that has kept me busy ever since. Paul is a unique teacher because he is able to grow his students into musicians and not just guitar players. He is able to explain any musical concept thoroughly and thoughtfully and he is kind enough to simplify things enough so a student at any level can grasp the concepts. 
 Lessons with Paul are dynamic. When you are presenting a melody he will comp the chords or if you are learning improvisation he can play the base lines to outline the chords. That makes it more interesting and realistic.
 
@@ -33,17 +40,6 @@ I have found since taking lessons with Paul that my interest in music has grown 
 If you are looking to pick up the guitar for the first time or think you want to expand on what you already know on the guitar I would contact Paul today. You will be richly rewarded.        
 
 <strong>– Brendan Walsh, Wethersfield CT </strong>
-</p>
----
-
-<p class="quote-testimonials">
-I started studying guitar with Paul about 5 years ago. I was experiencing a musical crisis and was fearful of where to turn. I am a classically trained French horn player, graduating with honors from the Hartt School of Music. I had played professionally for a number of years, teaching and performing with ensembles and orchestras throughout New England. In 2000 I had begun to notice a "weakness" in my embouchure. Loss of fine motor control in my lips resulted in intonation and endurance problems. Over the next few years, my deteriorating performance abilities were determined to be due to a condition called focal dystonia. After rehabilitative studies with one of the best horn teachers in CT, I came to the gut-wrenching realization that my professional French horn playing career was over.
-
-I had been practicing a musical instrument almost daily for most of my adult life. What to do, where to turn now that my "music", my "identity" had been ripped from me? I soon decided to pick up the guitar, partly as a balm to ease my pain. For my birthday my wife kindly offered, go pick out a guitar. I came home with a Taylor "Big Baby". Not an incredible guitar, but also not the hindrance that many entry level instruments are. Given my classical training, I quickly burned through a couple of Mel Bay books. I also realized that I could develop some bad "self-taught player" habits, and that I needed to find a teacher. But at my level of musical training, who would be willing to teach me...older guy, good reading chops and ears, but with limited two-hand dexterity?
-
-A search on the internet brought me to Paul Shumsky. From the outset, Paul has been a kind, gentle and nurturing teacher. He was not trying to impose any musical style or direction on me, he was willing to meet me where I was. As I like all styles of music, from blues to classical, from jazz to rock, I really had no idea where to go, which style to focus on. Not a problem for Paul. In short order I knew that I was in the presence of a master teacher, not only a talented theoretician, improviser and comping guitarist, but also one who was able to teach these concepts in a kind and adaptable manner. His deep knowledge of all things guitar and his ability to patiently impart this knowledge over the days, weeks, months and years needed to develop a beginner into a jammin' player is a rare gift indeed. As it turns out, jazz guitar is where I have settled in. Difficult yes, frustrating, over my head, insane...yes, but with a talented patient teacher, all is possible. At this point in my studies, I feel I am on the cusp of breaking through, to being good...but despite my visions of grandeur, every week in my lesson, I have a patient, kind, caring man who will jam with me and teach me until my fingers fall off. Thank you Paul for being my teacher, thank you for being my friend.
-
-<strong>– David D, Glastonbury CT </strong>
 </p>
 ---
 
@@ -70,9 +66,13 @@ I can't say enough good things about Paul as a guitar teacher - his mastery of t
 </p>
 ---
 <p class="quote-testimonials">
-Paul is an amazing teacher. He judged very quickly my level as a student and tailored his instruction accordingly, teaching me both what I wanted to know and what I needed to know. Every lesson was valuable: he fed me new material as fast as I could take it, and my improvement over a span of just a couple of weeks was tremendous. He maintains a comfortable learning environment. If I got flustered while trying to play something, he was able to work me through it, and once you're flustered, that's hard to do. I recommend Paul whole-heartedly.
+I started studying guitar with Paul about 5 years ago. I was experiencing a musical crisis and was fearful of where to turn. I am a classically trained French horn player, graduating with honors from the Hartt School of Music. I had played professionally for a number of years, teaching and performing with ensembles and orchestras throughout New England. In 2000 I had begun to notice a "weakness" in my embouchure. Loss of fine motor control in my lips resulted in intonation and endurance problems. Over the next few years, my deteriorating performance abilities were determined to be due to a condition called focal dystonia. After rehabilitative studies with one of the best horn teachers in CT, I came to the gut-wrenching realization that my professional French horn playing career was over.
 
-<strong>– Aaron Parsons, Harvard University</strong>
+I had been practicing a musical instrument almost daily for most of my adult life. What to do, where to turn now that my "music", my "identity" had been ripped from me? I soon decided to pick up the guitar, partly as a balm to ease my pain. For my birthday my wife kindly offered, go pick out a guitar. I came home with a Taylor "Big Baby". Not an incredible guitar, but also not the hindrance that many entry level instruments are. Given my classical training, I quickly burned through a couple of Mel Bay books. I also realized that I could develop some bad "self-taught player" habits, and that I needed to find a teacher. But at my level of musical training, who would be willing to teach me...older guy, good reading chops and ears, but with limited two-hand dexterity?
+
+A search on the internet brought me to Paul Shumsky. From the outset, Paul has been a kind, gentle and nurturing teacher. He was not trying to impose any musical style or direction on me, he was willing to meet me where I was. As I like all styles of music, from blues to classical, from jazz to rock, I really had no idea where to go, which style to focus on. Not a problem for Paul. In short order I knew that I was in the presence of a master teacher, not only a talented theoretician, improviser and comping guitarist, but also one who was able to teach these concepts in a kind and adaptable manner. His deep knowledge of all things guitar and his ability to patiently impart this knowledge over the days, weeks, months and years needed to develop a beginner into a jammin' player is a rare gift indeed. As it turns out, jazz guitar is where I have settled in. Difficult yes, frustrating, over my head, insane...yes, but with a talented patient teacher, all is possible. At this point in my studies, I feel I am on the cusp of breaking through, to being good...but despite my visions of grandeur, every week in my lesson, I have a patient, kind, caring man who will jam with me and teach me until my fingers fall off. Thank you Paul for being my teacher, thank you for being my friend.
+
+<strong>– David D, Glastonbury CT </strong>
 </p>
 ---
 <p class="quote-testimonials">
