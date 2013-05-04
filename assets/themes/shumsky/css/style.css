@@ -7,6 +7,14 @@ body {
   font-style: Calibri, "Helvetica Neue", Helvetica, sans-serif;
 }
 
+h1 {
+  font-size: 36px;
+}
+
+
+.home {
+  padding-left: 10px;
+}
 
 
 
@@ -37,8 +45,13 @@ footer p {
 
 }
 
+.nav-collapse.collapse {
+  height: auto !important;
+  overflow: visible !important;
+}
+
 .navbar-inner {
-  /*background: rgb(0,9, 10) url("../img/navbar-background.png");*/
+  
   filter: none;
 }
 
@@ -209,7 +222,7 @@ footer p {
 #banner-list {
   font-family: "PT Sans", sans-serif;
   font-weight: 400;
-  font-size: 1.5em;
+  font-size: 1.3em;
 }
 
 .quote-testimonials {
@@ -227,13 +240,14 @@ color: #474747;
 .home .quote {
   font-family: "Vollkorn", sans-serif;
   line-height: 2em;
-  font-size: 1.5em;
+  font-size: 1.3em;
   
 min-height: 40px;
 padding: .6em 1em .6em 2.4em;
 font-style: italic;
 color: #474747;
 }
+
 
 .tagline {
   padding: 5px;
@@ -307,7 +321,7 @@ footer {
   bottom: 0;
   color: #fcd6a4;
   text-shadow: 0px 1px 1px rgba(252,214,164,0.1);
-  behavir: url(/assets/images/pie/PIE.htc);
+  behavior: url(/assets/images/pie/PIE.htc);
   background-color: #000;
   margin-top: -60px;
   padding-top: 22px;
@@ -317,9 +331,14 @@ footer {
 }
 
 
+.navbar .nav > li > a {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
 
 #footer-list {
-  max-width: 700px;
+  max-width: 940px;
   overflow-y: hidden;
   display: block;
   margin-left: auto;

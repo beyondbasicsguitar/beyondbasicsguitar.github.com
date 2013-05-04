@@ -1,5 +1,6 @@
 ---
 layout: home
+location: home
 title: Beyond Basics Guitar
 ---
 {% include JB/setup %}
