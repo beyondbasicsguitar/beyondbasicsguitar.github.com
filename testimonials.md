@@ -19,9 +19,9 @@ guitar: { image: "assets/images/sidebar-daquisto-1970.png" }
 </style>
 
 <p class="quote-testimonials">
-Paul was tremendously helpful instructing me on jazz comping, improvisation, and other techniques. Paul's method blended musical theory and exercises into a program that allowed me to play new songs while applying the concepts I was learning. This approach made advanced musical concepts much more comprehensible and fun to learn. Aside from music theory, Paul's instruction improved my left and right-hand technique, as well as my ability to listen. Paul has a great passion for music and teaching which is clearly reflected in his patience, attention, and attitude.  The most enjoyable part of the lesson is Paul's willingness to collaborate with his students in order to tailor the lesson format to the student's ability and musical objectives.
+Paul's a great teacher. Patient and knowledgeable, he creates a relaxed environment where you can try new things, screw up, ask questions, etc. and feel totally at ease. Regardless of what we're working on - technique, theory, repertoire, improv - I leave every lesson feeling like I've learned something new, practical, and essential.
 
-<strong>- C. Luciano, Farmington, CT</strong>
+<strong>– J. P., Boston MA</strong>
 </p>
 ---
 <p class="quote-testimonials" >
@@ -76,9 +76,9 @@ Paul is an amazing teacher. He judged very quickly my level as a student and tai
 </p>
 ---
 <p class="quote-testimonials">
-Paul's a great teacher. Patient and knowledgeable, he creates a relaxed environment where you can try new things, screw up, ask questions, etc. and feel totally at ease. Regardless of what we're working on - technique, theory, repertoire, improv - I leave every lesson feeling like I've learned something new, practical, and essential.
+Paul was tremendously helpful instructing me on jazz comping, improvisation, and other techniques. Paul's method blended musical theory and exercises into a program that allowed me to play new songs while applying the concepts I was learning. This approach made advanced musical concepts much more comprehensible and fun to learn. Aside from music theory, Paul's instruction improved my left and right-hand technique, as well as my ability to listen. Paul has a great passion for music and teaching which is clearly reflected in his patience, attention, and attitude.  The most enjoyable part of the lesson is Paul's willingness to collaborate with his students in order to tailor the lesson format to the student's ability and musical objectives.
 
-<strong>– J. P., Boston MA</strong>
+<strong>- C. Luciano, Farmington, CT</strong>
 </p>
 --- 
 <p class="quote-testimonials">
