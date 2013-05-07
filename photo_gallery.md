@@ -17,7 +17,7 @@ pictures:
     photo_by: Mark Sarver
   - url: /assets/images/gallery/wd_rochester.jpg
     label: Rochester
-    caption: In Rochester NY to play the U of R, 1995.
+    caption: With Wildest Dreams in Rochester NY to play the U of R, 1995.
   - url: /assets/images/gallery/paul_at_jam.jpg
     label: Paul at Jam
     caption: Jamming at the infamous Jack Presberg jam in Rochester, NY
