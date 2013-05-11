@@ -26,7 +26,7 @@ description: ""
 
 * [Huge standards lyric site with elementary chord changes](http://www.theguitarguy.com/songs.htm)
 
-* [SteveGreen.com](http://stevegreene.com/) My old high school pal is the most unusual jazz guitar teacher in Rochester, NY
+* [SteveGreene.com](http://stevegreene.com/) My old high school pal is the most unusual jazz guitar teacher in Rochester, NY
 
 * [Center for Transition and Transformation](http://www.pfield.com/) My wife, Penny Field, is a superb psychotherapist. Check out her site.
 
