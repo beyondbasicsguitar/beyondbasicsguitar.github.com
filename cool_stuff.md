@@ -14,7 +14,7 @@ description: ""
 
 * [History of the 'original' Real Book](http://en.wikipedia.org/wiki/Real_Book) What is the Real Book? And why should any aspiring jazz musician have one? Read the history here. I got mine around 1972 and it was a xerox copy of the original illicit version!
 
-* [Fantastic bass lessons Website](http://www.instituteofbass.com/)
+* [Fantastic bass lessons website](http://www.instituteofbass.com/)
 
 * [Just Jazz Guitar Magazine](http://www.justjazzguitar.com/) The best jazz guitar publication! Some great resources
 
