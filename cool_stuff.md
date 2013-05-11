@@ -22,7 +22,7 @@ description: ""
 
 * [Jazz guitarist Steve Kahn's site](http://stevekhan.com/korner1.htm) Free transcriptions here with accompanying music clips by Wes Montgomery, Pat Martino, Grant Green, Jim Hall and others. Highly recommended!
 
-* [Huge repository of "vanilla" chord changes to jazz standards](http://www.ralphpatt.com/Song.html)
+* [Free online Yale college course “Listening to Music”](http://oyc.yale.edu/music)
 
 * [Huge standards lyric site with elementary chord changes](http://www.theguitarguy.com/songs.htm)
 
