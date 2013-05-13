@@ -7,14 +7,18 @@ body {
   font-style: Calibri, "Helvetica Neue", Helvetica, sans-serif;
 }
 
+.home-banner h1 {
+  padding: 5px;
+  text-align: center;
+  background-color: #000;
+  color: #fcd6a4;
+}
 
 
 h1 {
   font-size: 36px;
-  background-color: #000;
-  color: #fcd6a4;
-  padding: 5px;
-  text-align: center;
+  
+  
 }
 
 h2 {
