@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Approach/Influences"
+title: "Approach"
 description: ""
 group: navigation
 weight: 3

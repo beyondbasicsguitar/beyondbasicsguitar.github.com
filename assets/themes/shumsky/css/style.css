@@ -7,6 +7,8 @@ body {
   font-style: Calibri, "Helvetica Neue", Helvetica, sans-serif;
 }
 
+
+
 h1 {
   font-size: 36px;
 }
@@ -317,7 +319,7 @@ color: #474747;
 
 
 footer {
-  position: relative;
+  position: fixed;
   bottom: 0;
   color: #fcd6a4;
   text-shadow: 0px 1px 1px rgba(252,214,164,0.1);
@@ -325,9 +327,10 @@ footer {
   background-color: #000;
   margin-top: -60px;
   padding-top: 22px;
-  height: 60px;
+  height: 30px;
   width: 100%;
   clear:both;
+
 }
 
 
