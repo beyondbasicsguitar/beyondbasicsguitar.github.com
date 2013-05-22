@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: no-sidebar
 title: "Approach"
 description: ""
 group: navigation
 weight: 3
-guitar: { image: "assets/images/sidebar-gibson-L5.png" }
 ---
 {% include JB/setup %}
 <div class="side-image">
