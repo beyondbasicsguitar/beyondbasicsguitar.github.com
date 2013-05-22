@@ -7,7 +7,7 @@ weight: 3
 ---
 {% include JB/setup %}
 <div class="side-image">
-	<img src="{{ BASE_PATH }}/assets/images/paul_drawing.jpg"  style="float:right; width:40%; height:40%; "/>
+	<img src="{{ BASE_PATH }}/assets/images/paul_drawing.jpg"  style="float:right; width:40%; height:40%; border: 1px solid; margin-right:-40px;"/>
 </div>
 
 
