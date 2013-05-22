@@ -14,7 +14,7 @@ description: ""
 
 * [History of the 'original' Real Book](http://en.wikipedia.org/wiki/Real_Book) What is the Real Book? And why should any aspiring jazz musician have one? Read the history here. I got mine around 1972 and it was a xerox copy of the original illicit version!
 
-* [Fantastic bass lessons Website](http://www.instituteofbass.com/)
+* [Fantastic bass lessons website](http://www.instituteofbass.com/)
 
 * [Just Jazz Guitar Magazine](http://www.justjazzguitar.com/) The best jazz guitar publication! Some great resources
 
@@ -22,11 +22,11 @@ description: ""
 
 * [Jazz guitarist Steve Kahn's site](http://stevekhan.com/korner1.htm) Free transcriptions here with accompanying music clips by Wes Montgomery, Pat Martino, Grant Green, Jim Hall and others. Highly recommended!
 
-* [Huge repository of "vanilla" chord changes to jazz standards](http://www.ralphpatt.com/Song.html)
+* [Listening to Music](http://oyc.yale.edu/music) Free online Yale college course
 
 * [Huge standards lyric site with elementary chord changes](http://www.theguitarguy.com/songs.htm)
 
-* [SteveGreen.com](http://stevegreene.com/) My old high school pal is the most unusual jazz guitar teacher in Rochester, NY
+* [SteveGreene.com](http://stevegreene.com/) My old high school pal is the most unusual jazz guitar teacher in Rochester, NY
 
 * [Center for Transition and Transformation](http://www.pfield.com/) My wife, Penny Field, is a superb psychotherapist. Check out her site.
 

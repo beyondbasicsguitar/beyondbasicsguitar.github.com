@@ -1,12 +1,16 @@
 ---
 layout: page
-title: "Approach/Influences"
+title: "Approach"
 description: ""
 group: navigation
 weight: 3
 guitar: { image: "assets/images/sidebar-gibson-L5.png" }
 ---
 {% include JB/setup %}
+<div class="side-image">
+	<img src="{{ BASE_PATH }}/assets/images/paul_drawing.jpg"  style="float:right; width:40%; height:40%; "/>
+</div>
+
 
 I have had the privilege of studying with several wonderful guitar masters, which has, of course, influenced the way I teach:
 
