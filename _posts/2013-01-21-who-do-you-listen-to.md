@@ -7,17 +7,16 @@ tags: []
 ---
 {% include JB/setup %}
 
-**Question:**
-Listening is a huge part of developing musicianship. Listening to all kinds of music and instrumentalists, not just guitarists is very helpful. I myself am a music omnivore and like to draw influences from many sources. Here are a few of my favorites...
-
-
-**Answer:**
-Listening is a huge part of developing musicianship. Listening to all kinds of music and instrumentalists, not just guitarists is very helpful. I myself am a music omnivore and like to draw influences from many sources. Here are a few of my favorites...
+**Listening is a huge part** of developing musicianship. And listening to all kinds of music and instrumentalists, not just 
+guitarists is very helpful. I have found over time as I have improved as a player, the music I have absorbed through
+listening connects with something I'm practicing and helps my understanding. I myself am a music omnivore and like to
+draw influences from many sources. Here are a few of my favorites that really turned my head as I was developing as a 
+player. Feel free to respond with any albums that you love that have made an impact on your musical development...
 
 * **Jazz**
 	
 	* [The Incredible Jazz Guitar of Wes Montgomery](http://www.amazon.com/exec/obidos/ASIN/B000000Y27/qid=1071249747/sr=2-1/ref=sr_2_1/002-0048173-7078453)
-	* [Smokin' At the Half Note - Wes Montgomery](http://www.amazon.com/exec/obidos/ASIN/B000000Y27/qid=1071249747/sr=2-1/ref=sr_2_1/002-0048173-7078453)
+	* [Smokin' At the Half Note - Wes Montgomery](http://www.amazon.com/Smokin-Half-Note-Wes-Montgomery/dp/B0006VXF4G/ref=sr_1_1?ie=UTF8&qid=1369253294&sr=8-1&keywords=smokin+at+the+half+note)
 	* [Footprints - Pat Martino (orig. release title "The Visit") ](http://www.amazon.com/exec/obidos/tg/detail/-/B000005BEK/ref=m_art_li_20/002-0048173-7078453)
 	* [Portraits of Ellington - Joe Pass](http://www.amazon.com/exec/obidos/tg/detail/-/B000000XIV/qid=1071252360/sr=1-1/ref=sr_1_1/002-0048173-7078453)
 	* [Return to Forever - Chick Corea](http://www.amazon.com/exec/obidos/tg/detail/-/B0000262QW/ref=pd_bxgy_img_2/002-0048173-7078453)
