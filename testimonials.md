@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no-sidebar
 title: "Testimonials"
 description: ""
 group: navigation
@@ -17,6 +17,10 @@ guitar: { image: "assets/images/sidebar-daquisto-1970.png" }
 
 
 </style>
+
+<div class="side-image">
+	<img src="{{ BASE_PATH }}/assets/images/paul%20and%20lolo.jpg"  style="float:right; width:40%; height:40%; "/>
+</div>
 
 <p class="quote-testimonials">
 Paul's a great teacher. Patient and knowledgeable, he creates a relaxed environment where you can try new things, screw up, ask questions, etc. and feel totally at ease. Regardless of what we're working on - technique, theory, repertoire, improv - I leave every lesson feeling like I've learned something new, practical, and essential.
