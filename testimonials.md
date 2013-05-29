@@ -8,15 +8,7 @@ guitar: { image: "assets/images/sidebar-daquisto-1970.png" }
 ---
 {% include JB/setup %}
 
-<style type="text/css">
-.quote-testimonials {
-	font-family: PT Sans, sans-serif;
-	line-height: 1.3em;
-	white-space: pre-wrap;
-}
 
-
-</style>
 
 <div class="side-image">
 	<img src="{{ BASE_PATH }}/assets/images/paul%20and%20lolo.jpg"  style="float:right; width:40%; height:40%; "/>
