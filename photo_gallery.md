@@ -23,7 +23,7 @@ pictures:
   - url: /assets/images/gallery/paul_w_stan_strickland.jpg
     label: Paul and Stan Strickland
     caption: Jamming with Stan Stickland at Dance New England summer camp.
-  - url: /assets/images/gallery/blueshirt.jpg 
+  - url:  /assets/images/gallery/blueshirt.jpg 
     label: Paul having a good time.
     caption: Scintillating moments can even occur at weddings!
   - url: /assets/images/gallery/paul_at_jam.jpg 
