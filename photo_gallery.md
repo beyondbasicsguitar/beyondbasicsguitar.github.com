@@ -10,6 +10,9 @@ pictures:
   - url: /assets/images/gallery/wilson.jpg
     label: Wilson
     caption: Wildest Drems promo shot
+  - url: /assets/images/gallery/wilson2.jpg
+    label: Wildest Dreams out-take promo shot
+    caption: A light-hearted moment, but we never actually used this promo shot! (photo by Susan Wilson)
   - url: /assets/images/gallery/paul_riverfest.jpg
     label: Paul Riverfest
     caption: On stage at the Cambridge Riverfest, circa 1990.
