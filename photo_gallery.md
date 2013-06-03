@@ -26,7 +26,7 @@ pictures:
   - url:  /assets/images/gallery/blueshirt.jpg 
     label: Paul having a good time.
     caption: Scintillating moments can even occur at weddings!
-  - url: /assets/images/gallery/mark_and_paul.jpg
+  - url:  /assets/images/gallery/mark_and_paul.jpg 
     label: Mark Endresen and Paul Shumsky at Duxbury MA July 4th gig
     caption: Paul with Mark Endresen of the famed Calypso Hurricane
   - url: /assets/images/gallery/paul_at_jam.jpg 
