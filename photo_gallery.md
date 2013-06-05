@@ -23,15 +23,18 @@ pictures:
   - url: /assets/images/gallery/paul_w_stan_strickland.jpg
     label: Paul and Stan Strickland
     caption: Jamming with Stan Stickland at Dance New England summer camp.
-  - url:  /assets/images/gallery/blueshirt.jpg 
+  - url: /assets/images/gallery/blueshirt.jpg 
     label: Paul having a good time.
     caption: Scintillating moments can even occur at weddings!
-  - url:  /assets/images/gallery/mark_and_paul.jpg 
+  - url: /assets/images/gallery/mark_and_paul.jpg 
     label: Mark Endresen and Paul Shumsky at Duxbury MA July 4th gig
     caption: Paul with Mark Endresen of the famed Calypso Hurricane
   - url:  /assets/images/gallery/penny_and_paul.jpg 
     label: Paul accompanies Penny
-    caption: Paul and penny perform at Davio's party.
+    caption: Paul and Penny perform at Davio's party.
+  - url: /assets/images/gallery/paul_at_sscm.jpg
+    label: Paul performs at South Shore Conservatory.
+    caption: Playing some solo guitar for the SSCM open house. How 'bout those sideburns!
   - url: /assets/images/gallery/paul_at_jam.jpg 
     label: Paul at Jam
     caption: Jamming at the infamous Jack Presberg jam in Rochester, NY
