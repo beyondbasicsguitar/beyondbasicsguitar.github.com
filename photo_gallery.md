@@ -41,6 +41,9 @@ pictures:
   - url:  /assets/images/gallery/barry_galbraith_rec_letter.jpg 
     label: Letter of recomendation from Barry Galbraith
     caption: Barry Galbraith also wrote me a letter of recommendation for my first teaching job.
+  - url:  /assets/images/gallery/evan_and_paul.jpg 
+    label: Evan Goodrow and Paul Shumsky play a jazz brunch at the Red Rock Bistro in Swampscott, MA
+    caption: Evan Goodrow and Paul Shumsky play a jazz brunch (see the Listen page to hear what this picture sounded like).
   - url: /assets/images/gallery/paul_at_jam.jpg 
     label: Paul at Jam
     caption: Jamming at the infamous Jack Presberg jam in Rochester, NY
