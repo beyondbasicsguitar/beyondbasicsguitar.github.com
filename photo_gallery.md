@@ -38,6 +38,9 @@ pictures:
   - url:  /assets/images/gallery/gene_bertoncini_rec_letter.jpg 
     label: Letter of recomendation from Gene Bertoncini
     caption: Gene Bertoncini kindly wrote me a nice letter of recommendation for my first teaching job.
+  - url:  /assets/images/gallery/barry_galbraith_rec_letter.jpg 
+    label: Letter of recomendation from Barry Galbraith
+    caption: Barry Galbraith also wrote me a letter of recommendation for my first teaching job.
   - url: /assets/images/gallery/paul_at_jam.jpg 
     label: Paul at Jam
     caption: Jamming at the infamous Jack Presberg jam in Rochester, NY
