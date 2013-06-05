@@ -14,8 +14,8 @@ pictures:
     label: Wildest Dreams out-take promo shot
     caption: A light-hearted moment, but we never actually used this promo shot! (photo by Susan Wilson)
   - url: /assets/images/gallery/paul_riverfest.jpg
-    label: Paul Riverfest
-    caption: On stage at the Cambridge Riverfest, circa 1990.
+    label: Paul on stage at the Cambridge Riverfest
+    caption: On stage with Wildest Dreams at the Cambridge Riverfest, circa 1990.
     photo_by: Mark Sarver
   - url: /assets/images/gallery/wd_rochester.jpg
     label: Rochester
