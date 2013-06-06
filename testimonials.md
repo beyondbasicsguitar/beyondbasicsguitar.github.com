@@ -71,8 +71,7 @@ Paul was tremendously helpful instructing me on jazz comping, improvisation, and
 </p>
 --- 
 <p class="quote-testimonials">
- I started taking bass guitar lessons with Paul a year ago. I had a strong desire to play but little confidence and no technical knowledge. I put myself in Paul's hands and felt humbled by how much there was to learn. He was reassuring and kind. His direction made me feel comfortable and optimistic. Over the course of the year I've learned many songs and a lot about playing music. As a teacher, Paul is disciplined but not rigid. If you're having a bad week and come unprepared to the lesson, He'll say,
- "That's okay. We have plenty to talk about." And he'll focus on theory or whatever individual challenges you're struggling with. He's not judgemental, but respectful of whatever place you're in. If you're discouraged, he'll point out the ways you've progressed and the milestones you've reached. I feel very lucky to be studying with Paul Shumsky. He's a gifted musician and teacher. I highly recommend him to guitar students of all levels of learning.
+ I started taking bass guitar lessons with Paul a year ago. I had a strong desire to play but little confidence and no technical knowledge. I put myself in Paul's hands and felt humbled by how much there was to learn. He was reassuring and kind. His direction made me feel comfortable and optimistic. Over the course of the year I've learned many songs and a lot about playing music. As a teacher, Paul is disciplined but not rigid. If you're having a bad week and come unprepared to the lesson, He'll say, "That's okay. We have plenty to talk about." And he'll focus on theory or whatever individual challenges you're struggling with. He's not judgemental, but respectful of whatever place you're in. If you're discouraged, he'll point out the ways you've progressed and the milestones you've reached. I feel very lucky to be studying with Paul Shumsky. He's a gifted musician and teacher. I highly recommend him to guitar students of all levels of learning.
 <strong>– Dorothy M., Cambridge MA</strong>
 </p>
 
@@ -81,6 +80,17 @@ Paul was tremendously helpful instructing me on jazz comping, improvisation, and
 <p class="quote-testimonials">
 Paul has a knack for spotting strengths and weaknesses and then tailoring his lessons to fit a student. He is also really good at providing motivation in the right form at the right time.
 <strong>– Lee Sylvestre, Hartford CT</strong>
+</p>
+
+---
+
+<p class="quote-testimonials">
+I have been a student of Paul's for the past two years. I am fifty years of age and employed as a business executive with many demands on my time, but I decided I wanted to learn proper guitar technique. Although I had played basic folk guitar for over thirty years, I had little formal knowledge of the instrument, minimal ability to read music and had taught myself many bad habits.
+
+My experience with Paul has been excellent. He is a superb musician and wonderful example to his students, but, more importantly, he is the consummate teacher. Through a combination of exercises and actual application of techniques to jazz pieces, Paul has helped me to correct my technique. Paul recognizes that I have to deal with many priorities in my daily schedule and that I do not have the luxury of spending long hours at practice, but still he challenges me with new music on nearly a weekly basis. I have learned man new chords in various voicings and have developed a better understanding of chord relationships and harmony. Paul encourages creativity by teaching me to use different variations of chords within the same piece of music, making the piece interesting instead of repetitive. I am learning more about the guitar keyboard with each lesson, and I have accomplished considerable improvement in both left and right-hand techniques.
+
+Paul's use of Bach inventions and other classical pieces as exercises have been very helpful in my efforts in learning to read music. Paul challenges and provides positive encouragement with each indication of accomplishment. I know that other students have had similar experiences with Paul, as I was referred to him by two former students who have become accomplished professional musicians.
+<strong>– Jack Spurr, Norwell MA</strong>
 </p>
 
 ---
