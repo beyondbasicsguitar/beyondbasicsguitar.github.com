@@ -56,4 +56,9 @@ Please contact me for current rates and availability.
 "Thank you for playing so beautifully at our dinner party Thursday night. Not only did all of our guests comment on your delightful music, our neighbors told me they sat on their porch to hear you play.  I think our evening was a real success for the Ellison Center. Maybe a "big benefactor" had the privilege of hearing you play. Thanks again!"
 --Janet Hinkley, Hingham, MA
 </p>
+<p class="quote-testimonials">
+"The first two phone calls I received at work this morning concerned you. Both callers raved about how much you added to the cultivation party last night. Once said "The music was perfect. It was absolutely beautiful and varied, but not obtrusive, For a summer party, it couldn't have been better." The other said, "You have no idea what a difference it made having that wonderful music. It was the best possible way to show what we're all about."
+On behalf of all of us who are working to make The Ellison Center For The Arts a reality, many, many thanks for a job well done!"
+--Liz Miller, Director of Development, South Shore conservatory of Music, Hingham, MA
+</p>
 
