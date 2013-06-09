@@ -36,6 +36,11 @@ If you are looking to pick up the guitar for the first time or think you want to
 <strong>– Brendan Walsh, Wethersfield CT </strong>
 </p>
 ---
+<p class="quote-testimonials">
+As a complete beginner, I was very fortunate to find Paul. He has patiently lead me from the basic mechanics of playing a guitar through music theory and on to more advanced things like chord melody arrangements and the beginnings of improvisation. He has a deep knowledge of the jazz tradition, both theory and practice, but is also capable of making things simple for someone with no previous musical training at all. I can't recommend him more highly to anyone wanting to study guitar and/or jazz
+<strong>– Fred Warner, New Haven CT </strong>
+</p>
+---
 
 <p class="quote-testimonials">
 Paul is an exceptional guitar instructor. He has a thorough knowledge of jazz concepts, theory and styles that is easily visible in his playing. His approach to teaching is multidimensional in that he is quickly able to pinpoint strengths and weaknesses in his students' playing and then provide the necessary guidance to help you absorb and overcome problems from a variety of different angles. Paul's approach is to provide the student with the knowledge base and tools that will lead him or her to a higher level of command while at the same time not dictating how to play. I've been playing the guitar for 15 years and since starting lessons with Paul I've realized how many more musical doors there are to open. Through the years I have had many teachers and looking back, I would certainly rank Paul as one of the best.
