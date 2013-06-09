@@ -29,7 +29,7 @@ pictures:
   - url:  /assets/images/gallery/mark_and_paul.jpg  
     label: Mark Endresen and Paul Shumsky at Duxbury MA July 4th gig
     caption: Paul with Mark Endresen of the famed Calypso Hurricane
-  - url:  /assets/images/gallery/paul's_first_band.jpg  
+  - url: /assets/images/gallery/paul's_first_band.jpg 
     label: Paul's first band, circa 1965
     caption: I'm on the right, rockin' my first electric guitar, the superhot Harmony Rocket. Notice the precise job we did lining up the amps!
   - url:  /assets/images/gallery/penny_and_paul.jpg 
