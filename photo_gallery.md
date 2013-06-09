@@ -44,6 +44,9 @@ pictures:
   - url:  /assets/images/gallery/barry_galbraith_rec_letter.jpg 
     label: Letter of recomendation from Barry Galbraith
     caption: Barry Galbraith also wrote me a letter of recommendation for my first teaching job.
+  - url:  /assets/images/gallery/jeff_dennis_paul.jpg 
+    label: Paul jamming with his first guitar, the stalwart Harmony Sovereign, received on his 9th birthday.
+    caption: Jamming with my older brother Jeff Shumsky and best friend Dennis Comfort.
   - url:  /assets/images/gallery/evan_and_paul.jpg 
     label: Evan Goodrow and Paul Shumsky play a jazz brunch at the Red Rock Bistro in Swampscott, MA
     caption: Evan Goodrow and Paul Shumsky play a jazz brunch (see the Listen page to hear what this picture sounded like).
