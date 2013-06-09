@@ -17,7 +17,7 @@ weight: 2
 
 * Lessons incorporate your own repertoire choices and focus on the skills you want to develop
 
-* You’ll learn how music works as well as how to play, enabling better self-teaching and memorization.
+* You’ll learn <strong>how</strong> music works as well as how to play, enabling better self-teaching and memorization.
 
 * Work with a teacher who can quickly ascertain what's missing in your technique and key to your continued development
 
