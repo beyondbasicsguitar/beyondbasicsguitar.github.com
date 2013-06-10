@@ -30,7 +30,7 @@ pictures:
     label: Mark Endresen and Paul Shumsky at Duxbury MA July 4th gig
     caption: Paul with Mark Endresen of the famed Calypso Hurricane
   - url: /assets/images/gallery/paul's_first_band.jpg 
-    label: Paul's first band, circa 1965
+    label: Paul's first band, circa 1965. With Paul Callahan (bass), Dennis Comfort (guitar), Jack Prewitt (drums). 
     caption: I'm on the right, rockin' my first electric guitar, the superhot Harmony Rocket. Notice the precise job we did lining up the amps!
   - url:  /assets/images/gallery/penny_and_paul.jpg 
     label: Paul accompanies Penny
@@ -49,7 +49,10 @@ pictures:
     caption: Jamming with my older brother Jeff Shumsky and best friend Dennis Comfort.
   - url:  /assets/images/gallery/evan_and_paul.jpg 
     label: Evan Goodrow and Paul Shumsky play a jazz brunch at the Red Rock Bistro in Swampscott, MA
-    caption: Evan Goodrow and Paul Shumsky play a jazz brunch (see the Listen page to hear what this picture sounded like).
+    caption: Evan Goodrow and Paul Shumsky play a jazz brunch (see the Listen page to hear what this picture sounded like). Evan is playing my old Super 400.
+  - url: /assets/images/gallery/front_hall_paul.jpg
+    label: Paul, circa 1973, with 1949 Gibson L4C. Miss that baby.
+    caption: Paul taking a practice break, I think I'm about 18 here.
   - url: /assets/images/gallery/paul_at_jam.jpg 
     label: Paul at Jam
     caption: Jamming at the infamous Jack Presberg jam in Rochester, NY
