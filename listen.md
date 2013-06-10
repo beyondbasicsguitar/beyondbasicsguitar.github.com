@@ -76,9 +76,9 @@ Not previously released, live jam from Wildest Dreams studio sessions, live to t
 
 <hr/>
 
-### Live at the Red Rock Bistro in Swampscott, MA with my former student, [Evan Goodrow](http://www.EvanGoodrow.com): 
+### Live at the Red Rock Bistro in Swampscott, MA with [Evan Goodrow](http://www.EvanGoodrow.com): 
 
-[Bluesette]({{BASE_PATH}}/assets/music/bluesette.mp3). A guitar duet, I play the lead, first solo and outchoruses.
+[Bluesette]({{BASE_PATH}}/assets/music/bluesette.mp3). A guitar duet with my former student, I play the lead, first solo and outchoruses.
 
 
 
