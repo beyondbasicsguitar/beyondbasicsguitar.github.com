@@ -53,7 +53,7 @@ pictures:
   - url: /assets/images/gallery/front_hall_paul.jpg
     label: Paul, circa 1973, with 1949 Gibson L4C. Miss that baby.
     caption: Paul taking a practice break, I think I'm about 18 here.
-  - url: /assets/images/gallery/paul_at_jam.jpg 
+  - url: /assets/images/gallery/paul_at_jam2.jpg 
     label: Paul at Jam
     caption: Jamming at the infamous Jack Presberg jam in Rochester, NY
 ---
