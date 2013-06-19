@@ -9,7 +9,7 @@ pictures:
     caption: Half-time in the green room at Regis College Theatre for the Performing Arts. Pernell Saturnino, Paul Shumsky, Alice Johnson, Andy Holiner, Chagai Ashbel, Kevin Cobb.
   - url: /assets/images/gallery/wilson.jpg
     label: Wilson
-    caption: Wildest Drems promo shot
+    caption: Wildest Dreams promo shot
   - url: /assets/images/gallery/wilson2.jpg
     label: Wildest Dreams out-take promo shot
     caption: A light-hearted moment, but we never actually used this promo shot! (photo by Susan Wilson)
@@ -37,7 +37,7 @@ pictures:
     caption: Paul and Penny perform at Davio's party.
   - url: /assets/images/gallery/paul_at_sscm.jpg
     label: Paul performs at South Shore Conservatory.
-    caption: Playing some solo guitar on my good ole Gibson Super 400 which I had bought from Duke Robillard and eventually sold to my student Evan 	Goodrow. How 'bout those sideburns?!
+    caption: Playing some solo guitar on my good ole Gibson Super 400 which I had bought from Duke Robillard and eventually sold to my student Evan Goodrow. How 'bout those sideburns?!
   - url:  /assets/images/gallery/gene_bertoncini_rec_letter.jpg 
     label: Letter of recomendation from Gene Bertoncini
     caption: Gene Bertoncini kindly wrote me a nice letter of recommendation for my first teaching job.
