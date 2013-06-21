@@ -23,7 +23,7 @@ My teaching is informed by thousands of performances over the course of my caree
 *   [Eastman School of Music](http://www.rochester.edu/Eastman/), Jazz Studies ('75-'77)
 *   Jazz guitar studies with Mick Goodrick, Barry Galbraith, Charlie Banacos, Gene Bertoncini, Chuck Wayne
 *   Species counterpoint, composition and piano studies with Dr. Avram David 1981-1990, Craig Najjar, Sonny Kompanek
-*   Additional guitar/jazz studies with Jacki Byard, Jim Scott, Chuck Mangione, Brett Wilmott, Tom Rizzo, Robert Paul Sulllivan, Alan Hager
+*   Additional guitar/jazz studies with [Jacki Byard] (http://www.npr.org/programs/jazzprofiles/archive/byard.html), Jim Scott, Chuck Mangione, Brett Wilmott, Tom Rizzo, Robert Paul Sulllivan, Alan Hager
 *   Voice studies with Mark Baxter, Jan Shapiro, Pearl Layton
  
 ## Guitar Faculty
