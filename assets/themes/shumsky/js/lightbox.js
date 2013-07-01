@@ -163,7 +163,7 @@ lightbox = new Lightbox options
       if ($link.attr('rel') === 'lightbox') {
         this.album.push({
           link: $link.attr('href'),
-          title: $link.attr('title')
+          caption: $link.attr('caption')
         });
       } else {
         _ref = $($link.prop("tagName") + '[rel="' + $link.attr('rel') + '"]');
@@ -171,7 +171,7 @@ lightbox = new Lightbox options
           a = _ref[i];
           this.album.push({
             link: $(a).attr('href'),
-            title: $(a).attr('title')
+            caption: $(a).attr('caption')
           });
           if ($(a).attr('href') === $link.attr('href')) imageNumber = i;
         }
@@ -286,8 +286,8 @@ lightbox = new Lightbox options
       var $lightbox,
         _this = this;
       $lightbox = $('#lightbox');
-      if (typeof this.album[this.currentImageIndex].title !== 'undefined' && this.album[this.currentImageIndex].title !== "") {
-        $lightbox.find('.lb-caption').html(this.album[this.currentImageIndex].title).fadeIn('fast');
+      if (typeof this.album[this.currentImageIndex].caption !== 'undefined' && this.album[this.currentImageIndex].caption !== "") {
+        $lightbox.find('.lb-caption').html(this.album[this.currentImageIndex].caption).fadeIn('fast');
       }
       if (this.album.length > 1) {
         $lightbox.find('.lb-number').html(this.options.labelImage + ' ' + (this.currentImageIndex + 1) + ' ' + this.options.labelOf + '  ' + this.album.length).fadeIn('fast');
