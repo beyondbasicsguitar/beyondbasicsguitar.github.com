@@ -15,7 +15,7 @@ I have had the privilege of studying with several wonderful guitar masters, whic
 
 
 
-* [Barry Galbraith](http://en.wikipedia.org/wiki/Barry_Galbraith): NY studio player who [worked](http://www.vervemusicgroup.com/artist/default.aspx?aid=3733) through the entire era of electric guitar.
+* [Barry Galbraith](http://en.wikipedia.org/wiki/Barry_Galbraith): NY studio player who worked through the entire era of electric guitar.
 
 * [Chuck Wayne](http://en.wikipedia.org/wiki/Chuck_Wayne): NY player who performed with Charlie Parker, from the be-bop school. Read more about [Chuck](http://entertainment.msn.com/artist/?artist=139779) 
 
