@@ -4,9 +4,13 @@ title: "Gallery"
 categories: ["more"]
 description: ""
 pictures:
-  - url: /assets/images/gallery/band_greenroom.jpg
-    label: Band Green Room
-    caption: Half-time in the green room at Regis College Theatre for the Performing Arts. Pernell Saturnino, Paul Shumsky, Alice Johnson, Andy Holiner, Chagai Ashbel, Kevin Cobb.
+
+  - url: /assets/images/gallery/wildest_dreams_garden_st.jpg
+    label: Our very first lineup promo shot in 1989
+    caption: Taken by a friend backstage (11 Garden St, Cambridge MA) after our first gig in 1989: Kevin Cobb, Ricardo Monzon, Alice Johnson, Andy Holiner, Paul Shumsky, Scott, Amendola.
+  - url: /assets/images/gallery/wilson2.jpg
+    label: Wildest Dreams out-take promo shot
+    caption: A light-hearted moment, but we never actually used this promo shot! 
   - url: /assets/images/gallery/wilson.jpg
     label: Wilson
     caption: Wildest Dreams promo shot
@@ -16,6 +20,9 @@ pictures:
   - url: /assets/images/gallery/wd_in_tuxes.jpg
     label: Wildest Dreams in tuxes. Kevin Cobb, Andy Holiner, Alice Johnson, Luis Blanco, Andreas Brade, Paul Shumsky
     caption: We did play some weddings but hardly ever actually wore our tuxes. 
+  - url: /assets/images/gallery/band_greenroom.jpg
+    label: Band Green Room
+    caption: Half-time in the green room at Regis College Theatre for the Performing Arts. Pernell Saturnino, Paul Shumsky, Alice Johnson, Andy Holiner, Chagai Ashbel, Kevin Cobb.
   - url: /assets/images/gallery/paul_riverfest.jpg
     label: Paul on stage at the Cambridge Riverfest
     caption: On stage with Wildest Dreams at the Cambridge Riverfest, circa 1990.
