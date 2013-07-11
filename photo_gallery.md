@@ -4,7 +4,6 @@ title: "Gallery"
 categories: ["more"]
 description: ""
 pictures:
-
   - url: /assets/images/gallery/wildest_dreams_garden_st.jpg
     label: Our very first lineup promo shot in 1989
     caption: Taken by a friend backstage (11 Garden St, Cambridge MA) after our first gig in 1989: Kevin Cobb, Ricardo Monzon, Alice Johnson, Andy Holiner, Paul Shumsky, Scott, Amendola.
