@@ -62,6 +62,6 @@ Please contact me for current rates and availability.
 </p>
 <p class="quote-testimonials">
 "I cannot thank you enough for all that you did for my Dad's memorial service. We are so grateful to you for setting up the sound system, recording music and most of all, for so beautifully playing the guitar. I will never forget it. Music is so important in our lives and reaches deep down and touches us in so many ways. I felt so many emotions as you played. Your music connected the pieces of the service together and made it so very beautiful. Thank you so much."
---C. Champy
+--C. Champy, Windsor, CT
 </p>
 
