@@ -22,11 +22,11 @@ weight: 3
 	<img src="{{ BASE_PATH }}/assets/images/paul_greyscale.gif" alt="Paul Drawing" style="float:right; width:30%; height:30%; margin-right: -25px; border: solid 3px;"/>
 </div>
 
-Please feel free to contact me to discuss your interests, questions, available time slots and any other scheduling concerns.
-Email: pshumsky@gmail.com
+**Please feel free to contact me** to discuss your interests, questions, available time slots and any other scheduling concerns.
+<br>Email: pshumsky@gmail.com<br>
 Phone: 860-569-7799 (I will respond as quickly as possible to voicemails)
 
-Lessons are also available via Skype for students not in the Hartford area.
+**Lessons are also available via Skype** for students not in the Hartford area.
 Skype ID: paul.shumsky
 
 <hr>
