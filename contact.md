@@ -26,7 +26,7 @@ weight: 3
 <br>Email: pshumsky@gmail.com<br>
 Phone: 860-569-7799 (I will respond as quickly as possible to voicemails)
 
-**Lessons are also available via Skype** for students not in the Hartford area.
+**Lessons are also available via Skype** for students not in the Hartford area.<br>
 Skype ID: paul.shumsky
 
 <hr>
