@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Developing Speed..."
+title: "Finger Dexterity vs. Brain Dexterity"
 description: ""
 category: 
 tags: []
