@@ -67,9 +67,16 @@
                     <li {% if p.url == page.url %} 
                         class = "active" 
                         {% endif %} >
+                      {% if p.redirect_url %}
+                      <a 
+                        href="{{ BASE_PATH }}{{ p.redirect_url }}"> {{ p.title }}
+                      </a>
+
+                      {% else %}
                       <a 
                         href="{{ BASE_PATH }}{{ p.url }}"> {{ p.title }}
                       </a>
+                      {% endif %}
                     </li>
                   {% endif %}
                 {% endfor %}
