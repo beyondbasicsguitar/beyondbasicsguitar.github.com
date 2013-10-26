@@ -15,7 +15,7 @@ title: Beyond Basics Guitar
 </ul>
 <div class="quote">
 <em>"...Regardless of what we're working on - technique, theory, repertoire, improv - I leave every lesson feeling like I've learned something new,
-practical, and essential."    – J. P., Hartford, CT</em>
+practical, and essential."<br>– J. P., Hartford, CT</em>
     
 </div>
 <div class="action">
