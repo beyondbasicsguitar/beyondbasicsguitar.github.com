@@ -37,7 +37,7 @@ If you are looking to pick up the guitar for the first time or think you want to
 </p>
 ---
 <p class="quote-testimonials">
-As a complete beginner, I was very fortunate to find Paul. He has patiently lead me from the basic mechanics of playing a guitar through music theory and on to more advanced things like chord melody arrangements and the beginnings of improvisation. He has a deep knowledge of the jazz tradition, both theory and practice, but is also capable of making things simple for someone with no previous musical training at all. I can't recommend him more highly to anyone wanting to study guitar and/or jazz
+As a complete beginner, I was very fortunate to find Paul. He has patiently led me from the basic mechanics of playing a guitar through music theory and on to more advanced things like chord melody arrangements and the beginnings of improvisation. He has a deep knowledge of the jazz tradition, both theory and practice, but is also capable of making things simple for someone with no previous musical training at all. I can't recommend him more highly to anyone wanting to study guitar and/or jazz
 <strong>– Fred Warner, New Haven CT </strong>
 </p>
 ---
