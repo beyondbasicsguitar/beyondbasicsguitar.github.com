@@ -25,7 +25,7 @@ Paul is an amazing teacher. He judged very quickly my level as a student and tai
 </p>
 ---
 <p class="quote-testimonials" >
-"Paul possesses a refreshing combination of expert knowledge and technique, patient attentiveness, and an ability to quickly ascertain a student’s strengths and weaknesses to create an exciting, challenging and rewarding course of study. I would highly recommend Paul to any guitarist seeking to maximize their potential and have a great time while doing so."
+"Paul possesses a refreshing combination of expert knowledge and technique, patient attentiveness and an ability to quickly ascertain a student’s strengths and weaknesses to create an exciting, challenging and rewarding course of study. I would highly recommend Paul to any guitarist seeking to maximize their potential and have a great time while doing so."
 <strong>– Drew Amendola, Wethersfield, CT</strong>
 </p>
 ---
