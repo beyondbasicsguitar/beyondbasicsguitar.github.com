@@ -24,7 +24,11 @@ Paul is an amazing teacher. He judged very quickly my level as a student and tai
 <strong>– Aaron Parsons, Harvard University</strong>
 </p>
 ---
-
+<p class="quote-testimonials" >
+"Paul possesses a refreshing combination of expert knowledge and technique, patient attentiveness, and an ability to quickly ascertain a student’s strengths and weaknesses to create an exciting, challenging and rewarding course of study. I would highly recommend Paul to any guitarist seeking to maximize their potential and have a great time while doing so."<strong>– Aaron Parsons, Harvard University</strong>
+<strong>– Drew Amendola, Wethersfield, CT/strong>
+</p>
+---
 <p class="quote-testimonials">
 I have been studying with Paul for almost 3 years now and I couldn't have had a better guide for this musical journey. It was obvious from my first lesson he was a very experienced teacher. Just by listening to where I was at on the guitar he was able to quickly plan my trip for me. He was able to blend a healthy balance of theory and musical ideas that has kept me busy ever since. Paul is a unique teacher because he is able to grow his students into musicians and not just guitar players. He is able to explain any musical concept thoroughly and thoughtfully and he is kind enough to simplify things enough so a student at any level can grasp the concepts. 
 
