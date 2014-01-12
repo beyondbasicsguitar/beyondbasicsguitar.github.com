@@ -13,7 +13,7 @@
         if (typeof href === 'string') {
             //console.log(href.endsWith("mp3"));
             if (href.endsWith("mp3")) {
-                $item.parent().append($("<audio/>", {
+                $item.after($("<audio/>", {
                     "controls": true
                 }).append($("<source/>", {
                     "src": href,
