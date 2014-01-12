@@ -13,16 +13,15 @@ listening connects with something I'm practicing and helps my understanding. I m
 draw influences from many sources. Here are a few of my favorites that really turned my head as I was developing as a 
 player. Feel free to respond with any albums that you love that have made an impact on your musical development...
 
-* **Jazz**
-	
+* **Jazz**	
 	* [The Incredible Jazz Guitar of Wes Montgomery](http://www.amazon.com/exec/obidos/ASIN/B000000Y27/qid=1071249747/sr=2-1/ref=sr_2_1/002-0048173-7078453)
 	* [Smokin' At the Half Note - Wes Montgomery](http://www.amazon.com/Smokin-Half-Note-Wes-Montgomery/dp/B0006VXF4G/ref=sr_1_1?ie=UTF8&qid=1369253294&sr=8-1&keywords=smokin+at+the+half+note)
 	* [Footprints - Pat Martino (orig. release title "The Visit") ](http://www.amazon.com/exec/obidos/tg/detail/-/B000005BEK/ref=m_art_li_20/002-0048173-7078453)
 	* [Portraits of Ellington - Joe Pass](http://www.amazon.com/exec/obidos/tg/detail/-/B000000XIV/qid=1071252360/sr=1-1/ref=sr_1_1/002-0048173-7078453)
 	* [Return to Forever - Chick Corea](http://www.amazon.com/exec/obidos/tg/detail/-/B0000262QW/ref=pd_bxgy_img_2/002-0048173-7078453)
 	* [Light As a Feather - Chick Core with Return to Forever](http://www.amazon.com/exec/obidos/ASIN/B0000046YK/qid=1071252671/sr=2-1/ref=sr_2_1/002-0048173-7078453)
-	* [Kind of Blue - Miles Davis](http://http//www.amazon.com/exec/obidos/ASIN/B000002ADT/qid=1071513702/sr=2-1/ref=sr_2_1/104-6449218-9132766)
-	: read about the [making of Kind Of Blue](http://www.npr.org/programs/jazzprofiles/archive/miles_kob.html)
+	* [Kind of Blue - Miles Davis](http://http//www.amazon.com/exec/obidos/ASIN/B000002ADT/qid=1071513702/sr=2-1/ref=sr_2_1/104-6449218-9132766)  - read about the [making of Kind Of Blue](http://www.npr.org/programs/jazzprofiles/archive/miles_kob.html)
+
 	* [Tribute to Jack Johnson - Miles Davis](http://www.amazon.com/exec/obidos/ASIN/B0000027GU/qid=1071513840/sr=2-2/ref=sr_2_2/104-6449218-9132766)
 	* [In a Silent Way - Miles Davis](http://www.amazon.com/exec/obidos/tg/detail/-/B00006GO9Q/qid=1071514405/sr=1-2/ref=sr_1_2/104-6449218-9132766)
 	* [Jazz Winds From a New Direction - Hank Garland (with a 17 year old Gary Burton!)](http://www.amazon.com/exec/obidos/ASIN/B00005B7RS/qid=1071515334/sr=2-1/ref=sr_2_1/104-6449218-9132766)
