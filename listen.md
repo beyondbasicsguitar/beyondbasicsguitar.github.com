@@ -14,9 +14,6 @@ weight: 4
 	img {
 		padding-left: 10px;
 	}
-	audio {
-		display: block;
-	}
 </style>
 
 <div class="side-image">
