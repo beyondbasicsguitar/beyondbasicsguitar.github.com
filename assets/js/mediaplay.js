@@ -15,7 +15,7 @@
             if (href.endsWith("mp3")) {
                 $item.after($("<audio/>", {
                     "controls": true
-                }).append($("<source/>", {
+                }).css("display", "block").append($("<source/>", {
                     "src": href,
                     "type": "audio/mp3"
                 })));

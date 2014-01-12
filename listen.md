@@ -6,17 +6,16 @@ weight: 4
 ---
 {% include JB/setup %}
 
+
 <style type="text/css">
-	hr {
+hr {
 		background:#F87431; border:0; height:1px;
 	}
 	
 	img {
 		padding-left: 10px;
 	}
-	audio {
-		display: block;
-	}
+	
 </style>
 
 <div class="side-image">
