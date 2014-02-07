@@ -19,7 +19,7 @@ I have had the privilege of studying with several wonderful guitar masters, whic
 
 * [Chuck Wayne](http://en.wikipedia.org/wiki/Chuck_Wayne): NY player who performed with Charlie Parker, from the be-bop school. Read more about [Chuck](http://entertainment.msn.com/artist/?artist=139779) 
 
-* [Mick Goodrick](http://www.mrgoodchord.com/): modern school, expert at the psychology of improvising.
+* [Mick Goodrick](http://en.wikipedia.org/wiki/Mick_Goodrick): modern school, expert at the psychology of improvising.
 
 * [Gene Bertoncini](http://www.genebertoncini.com/): modern school, expert with linear approach, specific voicings, played on the Tonight Show with Johnny Carson for many years.
 
