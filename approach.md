@@ -25,7 +25,7 @@ I have had the privilege of studying with several wonderful guitar masters, whic
 
 * [Charlie Banacos](http://www.charliebanacos.com/): Charlie was a jazz improv teaching legend for a great many professional players of all instruments. He was the primary influence for many contemporary players such as Mike Stern, Michael Brecker and Wayne Krantz. You can read bassist Jeff Berlin’s tribute [here](http://www.allaboutjazz.com/php/article.php?id=35119#.UVCk3zc033M).
 
-* [Robert Paul Sullivan](http://www.newenglandconservatory.edu/faculty/sullivanR.html): classical teacher, expert at left hand technique.
+* [Robert Paul Sullivan](http://necmusic.edu/faculty/robert-paul-sullivan): classical teacher, expert at left hand technique.
 
 In the first lessons, we build the foundation of skills you’ll need to establish solid musicianship: the basics of chord voicings, scales for improvisation, blues comping and soloing, sight-reading, technique and music theory with a focus on understanding the guitar fingerboard. In addition, the goal is to clear up any misconceptions or gaps from your previous musical education.
 
