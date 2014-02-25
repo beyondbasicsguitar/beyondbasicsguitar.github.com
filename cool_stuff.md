@@ -18,7 +18,7 @@ description: ""
 
 * [Just Jazz Guitar Magazine](http://www.justjazzguitar.com/) The best jazz guitar publication! Some great resources
 
-* [The Barry Galbraith Memorial Chord Melody Archives](http://www.wildestdreams.com/pages/barrycharts.pdf) During my studies with Barry Galbraith in the 70's, he gave me many fascinating arrangements he created just for his students. Here's a 2.5mb pdf file containing 42 of those arrangements, recreated with notation software (Barry's hand notation was atrocious!)Barry Galbraith Lives!
+* [The Barry Galbraith Memorial Chord Melody Archives](/assets/downloads/barrycharts.pdf) During my studies with Barry Galbraith in the 70's, he gave me many fascinating arrangements he created just for his students. Here's a 2.5mb pdf file containing 42 of those arrangements, recreated with notation software (Barry's hand notation was atrocious!)Barry Galbraith Lives!
 
 * [Jazz guitarist Steve Kahn's site](http://stevekhan.com/korner1.htm) Free transcriptions here with accompanying music clips by Wes Montgomery, Pat Martino, Grant Green, Jim Hall and others. Highly recommended!
 
