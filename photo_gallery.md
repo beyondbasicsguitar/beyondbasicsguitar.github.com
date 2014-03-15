@@ -62,6 +62,10 @@ pictures:
   - url: /assets/images/gallery/paul_at_jam2.jpg 
     label: Paul at Jam
     caption: Jamming at the infamous Jack Presberg jam in Rochester, NY
+  - url: /assets/images/gallery/paul_with_es175.jpg 
+    label: 16 year old me with my 175
+    caption: 16 year old me playing my Gibson ES-175 I got for my 13th birthday. Why oh why did I let that one get away?
+
 ---
 {% include JB/setup %}
 
