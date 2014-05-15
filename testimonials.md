@@ -30,6 +30,13 @@ Paul is an amazing teacher. He judged very quickly my level as a student and tai
 </p>
 ---
 <p class="quote-testimonials">
+After 2 months of study with Paul, my tone and consistency improved considerably and I found myself playing things that had been well out of reach just a short time ago. He pushed me to put my hand into shapes I didn't even know were possible. He’s a great, patient teacher who helped me stay focused. 
+
+Tell him where you want to go, and he'll help you get there. 
+<strong>– Gustav Cappaert, West Hartford, CT</strong>
+</p>
+---
+<p class="quote-testimonials">
 I have been studying with Paul for almost 3 years now and I couldn't have had a better guide for this musical journey. It was obvious from my first lesson he was a very experienced teacher. Just by listening to where I was at on the guitar he was able to quickly plan my trip for me. He was able to blend a healthy balance of theory and musical ideas that has kept me busy ever since. Paul is a unique teacher because he is able to grow his students into musicians and not just guitar players. He is able to explain any musical concept thoroughly and thoughtfully and he is kind enough to simplify things enough so a student at any level can grasp the concepts. 
 
 Lessons with Paul are dynamic. When you are presenting a melody he will comp the chords or if you are learning improvisation he can play the base lines to outline the chords. That makes it more interesting and realistic.
