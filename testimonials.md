@@ -30,9 +30,9 @@ Paul is an amazing teacher. He judged very quickly my level as a student and tai
 </p>
 ---
 <p class="quote-testimonials">
-After 2 months of study with Paul, my tone and consistency improved considerably and I found myself playing things that had been well out of reach just a short time ago. He pushed me to put my hand into shapes I didn't even know were possible. He’s a great, patient teacher who helped me stay focused. 
+"After 2 months of study with Paul, my tone and consistency improved considerably and I found myself playing things that had been well out of reach just a short time ago. He pushed me to put my hand into shapes I didn't even know were possible. He’s a great, patient teacher who helped me stay focused. 
 
-Tell him where you want to go, and he'll help you get there. 
+Tell him where you want to go, and he'll help you get there." 
 <strong>– Gustav Cappaert, West Hartford, CT</strong>
 </p>
 ---
