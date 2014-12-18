@@ -27,7 +27,7 @@ weight: 2
 
 **Where:** All lessons are taught at my home studio in East Hartford, CT.
 
-**Cost:**	 $45.00.
+**Cost:**	 $50.00.
 
 **When:**  Monday - Thursday evenings, 6-9pm
 
