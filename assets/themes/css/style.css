@@ -1,0 +1,381 @@
+/* Override some defaults */
+body {
+  
+  background-image: url("../img/background.png");
+  border-repeat: repeat: 
+  height: 100%;
+  font-style: Calibri, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.home-banner h1 {
+  padding: 5px;
+  font-size: 42px;
+  text-align: center;
+  color: #800080;
+}
+
+
+h1 {
+  font-size: 36px;
+  
+  
+}
+
+.home-banner h2 {
+  font-style:italic;
+  text-align: center;
+  line-height: 10px;
+}
+
+
+.home {
+  padding-left: 10px;
+}
+
+.home-pic-caption {
+  padding-top: 5px;
+}
+
+
+footer p {
+  text-align: center; /* center align it with the container */
+}
+
+/* The white background content wrapper */
+.content {
+  background-color: #fff;
+  padding: 20px;
+  margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
+  -webkit-border-radius: 0 0 6px 6px;
+     -moz-border-radius: 0 0 6px 6px;
+          border-radius: 0 0 6px 6px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+/*.navbar {
+  background-color: #000;
+}*/
+
+.navbar {
+  filter:none;
+
+}
+
+.nav-collapse.collapse {
+  height: auto !important;
+  overflow: visible !important;
+}
+
+.navbar-inner {
+  
+  filter: none;
+}
+
+.navbar .brand {
+  color: rgb(202, 202, 202);
+}
+
+.navbar .nav  li {
+  padding-right: 10px;
+}
+
+
+
+.navbar .nav > li > a {
+  color: #fcd6a4;
+  font-family: Calibri "PT Sans" sans-serif;
+  /*text-transform: uppercase;*/
+  font-size: large;
+}
+
+.navbar .nav > li:hover {
+  background-color: #000;
+  
+}
+
+
+
+/* Page header tweaks */
+.page-header {
+  background-color: #f5f5f5;
+  padding: 20px 20px 10px;
+  margin: -20px -20px 20px;
+}
+
+.topbar .btn {
+  border: 0;
+}
+
+
+#navbar-name {
+  text-transform:uppercase; 
+  color: #eee;
+  text-shadow: white 1px 1px 1px;
+  font-size: 17pt;
+  font-family: 'Palatino Linotype', serif;
+}
+
+
+#banner-list li {
+  line-height: 45px;
+}
+
+/* tag_box ======================================================== */
+
+.tag_box {
+  list-style:none;
+  margin:0;
+  padding:5px 0 ;
+  overflow:hidden;
+}
+.tag_box li {
+  line-height:28px;
+}
+.tag_box.inline li {
+  float:left;
+}
+.tag_box a {
+  padding: 3px 6px;
+  margin: 2px;
+  background: #eee;
+  color:#005F6B;
+  border-radius: 3px;
+  text-decoration:none;
+}
+.tag_box a span{
+  vertical-align:super;
+  font-size:0.8em;
+}
+.tag_box a.active {
+  background:#57A957;
+  border:1px solid #4C964D;
+  color:#FFF;
+}
+
+
+
+.site-body {
+  margin-top: 10px;
+  padding-bottom: 60px;
+  min-height: 100%;
+}
+
+
+
+
+.banner {
+   background-color: #fff;
+  padding: 20px;
+  -webkit-border-radius: 0 0 6px 6px;
+     -moz-border-radius: 0 0 6px 6px;
+          border-radius: 0 0 6px 6px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+.banner h2{
+  font-family: "Tangerine", serif;
+  font-size: 50px;
+}
+
+.sidebar {
+   background-color: #fff;
+  -webkit-border-radius: 0 0 6px 6px;
+     -moz-border-radius: 0 0 6px 6px;
+          border-radius: 0 0 6px 6px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+.right-bar-guitar {
+  right: 0;
+  padding-left: 200px;
+  padding-top: 20px;
+}
+
+.navbar-affix {
+    position: fixed; 
+    top: 40px;  
+}
+
+.action {
+  margin-top: 10px;
+}
+
+.boxes {
+  border-top: solid 1px #000;
+  margin-left: 10px;
+}
+
+
+.home .content {
+   background-image: url('../img/guitar-bg.png');
+    background-repeat: no-repeat;
+
+    background-color: #fff;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+ 
+   
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-bottom:12px;
+}
+
+.home .content .row {
+   
+}
+
+.home-list-banner h2 {
+  font-family: "Open Sans" , "Arial Black", serif;
+  font-weight: 800;
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+#banner-list {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-size: 1.3em;
+}
+
+.quote-testimonials {
+	font-size: 1.2em;
+  
+      min-height: 40px;
+      padding: 0em 0em .2em .4em;
+      font-style: italic;
+      color: #474747;
+      font-family: Calibri, Helvetica, sans;
+	line-height: 1.2em;
+	white-space: pre-line;
+
+
+}
+
+.home .quote {
+  font-family: "Vollkorn", sans-serif;
+  line-height: 2em;
+  font-size: 1.3em;
+  
+min-height: 40px;
+padding: .6em 1em .6em 2.4em;
+font-style: italic;
+color: #474747;
+}
+
+
+.tagline {
+  padding: 5px;
+  background-color: #eee;
+  font-family: "Lato", "sans", serif;
+  -webkit-box-shadow: inset -1px -2px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: inset -1px -2px 2px rgba(0,0,0,.15);
+          box-shadow: inset -1px -2px 2px rgba(0,0,0,.15);
+
+}
+
+.copyright-text {
+  font-size: smaller;
+  line-height: 0px;
+}
+
+.home-pic-caption p {
+  line-height: 0.6em;
+  font-family: "Lato", "sans", serif;
+  font-size: 1em;
+}
+
+.home-banner h1 {
+  font-family: "Open Sans", sans-serif;
+  text-shadow: 0px 1px 1px #4d4d4d;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.home-banner h2 {
+  font-family: Calibri, "Lato", sans-serif;
+  
+  font-size: 28px;
+}
+
+.sidebar {
+  margin-top: 100px;
+}
+
+.sidebar-box {
+  padding-bottom: 5px;
+  /* Inner top shadow */
+    -moz-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow:  -1px 3px 5px rgba(0, 0, 0, 0.15);
+    box-shadow: inset -1px 3px 5px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar-title {
+  font-family: Calibri, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 16px;
+  padding: 5px;
+  text-align: center;
+  background-color: #fcd6a4;
+}
+
+.sidebar-body ul {
+  /*list-style-type: none;*/
+  margin: 0px;
+  margin-left: 20px;
+}
+
+.sidebar-body li {
+  padding: 4px;
+}
+
+
+
+
+
+footer {
+  position: fixed;
+  bottom: 0;
+  color: #fcd6a4;
+  text-shadow: 0px 1px 1px rgba(252,214,164,0.1);
+  behavior: url(/assets/images/pie/PIE.htc);
+  background-color: #000;
+  margin-top: -60px;
+  padding-top: 22px;
+  height: 30px;
+  width: 100%;
+  clear:both;
+
+}
+
+
+.navbar .nav > li > a {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+
+#footer-list {
+  max-width: 940px;
+  overflow-y: hidden;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#footer-list li
+{
+display: inline-block;
+font-size: 22px;
+list-style-type: none;
+padding-right: 20px;
+}
+
+#footer-list li span{
+    background:url('../img/img-separator.png') no-repeat center;
+    padding-left: 30px;
+    padding-right: 10px;
+}

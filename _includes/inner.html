@@ -1,0 +1,80 @@
+<div class="span8 content">
+        {{ content }}
+</div>
+<div class="span3 sidebar">
+
+{% if page.title == "Lessons" %}
+
+<div class="sidebar-box">
+	<div class="sidebar-title">
+	Planning on going to Berklee College? <br/>
+	I can help you:
+	</div>
+	<div class="sidebar-body">
+		<ul>
+			<li>Improve your chances of admittance</li>
+			<li>Learn Berklee's harmony system</li>
+			<li>Score well in placement tests and skip prerequisites</li>
+			<li>Develop your sight reading skills</li>
+			<li>Make the most of your college experience</li>
+		</ul>
+	</div>
+</div>
+
+<div class="sidebar-box">
+	<div class="sidebar-title">
+		Putting a new band together? <br/>
+		I can help you:
+	</div>
+	<div class="sidebar-body">
+		<ul>
+			<li>Plan a demo recording and avoid costly mistakes</li>
+<li>Effectively publicize shows and contact the right people</li>
+<li>Avoid pitfalls on stage that ruin those critical first impressions</li>
+<li>Design press materials and write a good press release</li>
+<li>Manage band personnel issues</li>
+<li>Prioritize your time, money and energy</li>
+<li>Get good gigs (the proverbial "foot in the door")</li>
+		</ul>
+	</div>
+</div>
+{% endif %}
+
+{% if page.title == "Blog" or page.layout == "post" %}
+
+<div class="sidebar-box">
+	<div class="sidebar-title">
+	Archive
+	</div>
+	<div class="sidebar-body">
+		{% assign posts_collate = site.posts %}
+		{% include JB/posts_collate %}
+	</div>
+</div>
+{% endif %}
+
+{% if page.sidebar_pictures %}
+	<div class="sidebar-box" >
+
+		{% for picture in page.sidebar_pictures %}
+				<img src="{{ picture.image }}" style="width:100%;"></img>
+		{% endfor %}
+	</div>
+
+
+{% endif %}
+
+<ul class="nav nav-list nav-pills nav-stacked">
+        {% for item in page.submenu %}
+          <li><a href="#{{ item.anchor }}"> {{ item.title }}</a></li>
+        {% endfor %}
+
+
+
+
+{% if page.guitar %}
+  <img src="{{ BASE_PATH }}/{{ page.guitar.image }}"></img>
+{% endif %}
+</div>
+      
+  

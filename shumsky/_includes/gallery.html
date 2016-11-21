@@ -1,0 +1,41 @@
+<ul class="pictures set">	
+{% for pic in page.pictures %}
+	<li class="picture-box"  data-description="{{pic.label | xml_escape}}">
+	  <a href="{{pic.url | uri_escape }}" data-toggle="tooltip" rel="fancybox[gallery]"    caption="{{pic.caption | xml_escape}}" title ="{{ pic.label | xml_escape }}">
+	  	<img src="{{pic.url |uri_escape}}" alt="{{ pic.caption }}"/>
+	  </a>
+	  <div class="picture-description" style="display:none;">{{pic.label | xml_escape}}</div>
+  </li>
+{% endfor %}
+</ul>
+
+
+
+
+<style type="text/css">
+
+.pictures img {
+	height: 150px;
+	width: auto;
+}
+
+ul.set {
+	display: inline-block;
+	list-style-type: none;
+}
+
+ul.set li {
+	display: inline-block;
+	
+	border: solid 5px #eee;
+	margin: 5px;
+}
+
+ul.set li:hover {	
+	border: solid 5px #bbb;
+	margin: 5px;
+}
+
+	
+</style>
+

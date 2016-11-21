@@ -1,0 +1,1 @@
+gem 'shumsky', :path => './shumsky'
