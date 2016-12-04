@@ -6,7 +6,7 @@ group: navigation
 weight: 2
 guitar: { image: "assets/images/sidebar-gibson-400.png" }
 sidebar_pictures:
-- { image: "assets/images/sidebar/paul_alice_1_dbl.jpg" } 
+- { image: "assets/images/sidebar/paul_alice_1_dbl.jpg" }
 - { image: "assets/images/sidebar/paul_alice_2.jpg" }
 - { image: "assets/images/sidebar/paul_alice_3.jpg" }
 ---
@@ -21,11 +21,11 @@ My teaching is informed by thousands of performances over the course of my caree
 *   B. M. in Jazz Guitar Performance, [New England Conservatory of Music](http://necmusic.edu/), 1978
 *   Additional studies at [Berklee College](http://www.berklee.edu) in Music Synthesis and Songwriting, 1987-'88
 *   [Eastman School of Music](http://www.rochester.edu/Eastman/), Jazz Studies ('75-'77)
-*   Jazz guitar studies with Mick Goodrick, [Barry Galbraith] (http://classicjazzguitar.com/artists/artists_page.jsp?artist=14), Charlie Banacos, [Gene Bertoncini] (http://en.wikipedia.org/wiki/Gene_Bertoncini), [Chuck Wayne] (https://en.wikipedia.org/wiki/Chuck_Wayne)
+*   Jazz guitar studies with Mick Goodrick, [Barry Galbraith](http://classicjazzguitar.com/artists/artists_page.jsp?artist=14), Charlie Banacos, [Gene Bertoncini](http://en.wikipedia.org/wiki/Gene_Bertoncini), [Chuck Wayne](https://en.wikipedia.org/wiki/Chuck_Wayne)
 *   Species counterpoint, composition and piano studies with Dr. Avram David 1981-1990, Craig Najjar, Sonny Kompanek
-*   Additional guitar/jazz studies with [Jacki Byard] (http://www.npr.org/programs/jazzprofiles/archive/byard.html), [Jim Scott] (http://jimscottmusic.com/info/about.html), Chuck Mangione, Brett Wilmott, [Tom Rizzo] (http://originarts.com/artists/artist.php?Artist_ID=182), Robert Paul Sulllivan, Alan Hager
+*   Additional guitar/jazz studies with [Jacki Byard](http://www.npr.org/programs/jazzprofiles/archive/byard.html), [Jim Scott](http://jimscottmusic.com/info/about.html), Chuck Mangione, Brett Wilmott, [Tom Rizzo](http://originarts.com/artists/artist.php?Artist_ID=182), Robert Paul Sulllivan, Alan Hager
 *   Voice studies with Mark Baxter, Jan Shapiro, Pearl Layton
- 
+
 ## Guitar Faculty
 
 *   U Mass Dartmouth ('92-'98)
@@ -54,4 +54,3 @@ My teaching is informed by thousands of performances over the course of my caree
 *   New England Conservatory Country Fiddle Band “One Hundred Years Of Country Dance Music” Columbia Records, Gunther Schuller, director.
 * NEC Jazz Repertory Orchestra featuring Joe Venuti: ["Happy Feet! A Tribute to Paul Whiteman"](http://www.cduniverse.com/productinfo.asp?pid=6140838&amp;style=music&amp;frm=lk_jzmtz&quot;) Golden Crest Records, director: Gunther Schuller
 *   Wendy Frank: "Human Nature - Environmental Awareness Songs for Children"
-
